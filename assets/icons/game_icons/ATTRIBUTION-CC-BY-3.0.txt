@@ -1,0 +1,14 @@
+Game-icons.net Icons (Creative Commons Attribution 3.0 Unported / CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+
+- compass.png: 'compass' by lorc (https://game-icons.net/1x1/lorc/compass.html)
+- open_book.png: 'open-book' by lorc (https://game-icons.net/1x1/lorc/open-book.html)
+- coins.png: 'coins' by delapouite (https://game-icons.net/1x1/delapouite/coins.html)
+- cog.png: 'cog' by lorc (https://game-icons.net/1x1/lorc/cog.html)
+- speaker.png: 'speaker' by delapouite (https://game-icons.net/1x1/delapouite/speaker.html)
+- padlock.png: 'padlock' by lorc (https://game-icons.net/1x1/lorc/padlock.html)
+- trophy.png: 'trophy' by lorc (https://game-icons.net/1x1/lorc/trophy.html)
+- stars_stack.png: 'stars-stack' by delapouite (https://game-icons.net/1x1/delapouite/stars-stack.html)
+- candle_flame.png: 'candle-flame' by lorc (https://game-icons.net/1x1/lorc/candle-flame.html)
+- tied_scroll.png: 'tied-scroll' by lorc (https://game-icons.net/1x1/lorc/tied-scroll.html)
+- light_bulb.png: 'light-bulb' by lorc (https://game-icons.net/1x1/lorc/light-bulb.html)

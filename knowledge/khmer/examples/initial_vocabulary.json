@@ -1,0 +1,1308 @@
+[
+  {
+    "id": "animals_tiger_001",
+    "khmer": "ខ្លា",
+    "english": "Tiger",
+    "definition_km": "សត្វព្រៃស៊ីសាច់មួយប្រភេទ មានរោមពណ៌ទឹកក្រូច និងឆ្នូតខ្មៅ។",
+    "definition_en": "A large striped wild cat; the chaser in the game.",
+    "part_of_speech": "noun",
+    "category": "animals",
+    "verified_syllables": ["ខ្លា"],
+    "example_km": "ខ្លារស់នៅក្នុងព្រៃធំ។",
+    "example_en": "The tiger lives in the big forest.",
+    "hints": {
+      "easy": "It is a wild animal in the cat family.",
+      "medium": "It has orange fur with black stripes.",
+      "strong": "This animal chases the kid through the maze."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/tiger.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ខ្លា"],
+    "notes": "Single syllable with ខ + subscript ្ល; do not split for Syllable Ordering."
+  },
+  {
+    "id": "animals_elephant_002",
+    "khmer": "ដំរី",
+    "english": "Elephant",
+    "definition_km": "សត្វធំមួយប្រភេទ ដែលមានប្រមោយវែង។",
+    "definition_en": "A very large land animal with a long trunk.",
+    "part_of_speech": "noun",
+    "category": "animals",
+    "verified_syllables": ["ដំ", "រី"],
+    "example_km": "ដំរីមានប្រមោយវែង។",
+    "example_en": "The elephant has a long trunk.",
+    "hints": {
+      "easy": "It is a very big animal.",
+      "medium": "It has a long trunk and big ears.",
+      "strong": "This 2-syllable word starts with ដំ."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/elephant.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ដំរី"]
+  },
+  {
+    "id": "animals_cow_003",
+    "khmer": "គោ",
+    "english": "Cow / Ox",
+    "definition_km": "សត្វចិញ្ចឹមធំមួយប្រភេទ ជួយការងារកសិកម្ម និងផ្តល់ទឹកដោះ។",
+    "definition_en": "A large farm animal kept for work, milk, or meat.",
+    "part_of_speech": "noun",
+    "category": "animals",
+    "verified_syllables": ["គោ"],
+    "example_km": "កសិករចិញ្ចឹមគោនៅភូមិ។",
+    "example_en": "The farmer raises cows in the village.",
+    "hints": {
+      "easy": "It is a farm animal.",
+      "medium": "It eats grass and gives milk.",
+      "strong": "This 1-syllable word starts with គ."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/cow.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: គោ"]
+  },
+  {
+    "id": "animals_dog_004",
+    "khmer": "ឆ្កែ",
+    "english": "Dog",
+    "definition_km": "សត្វចិញ្ចឹមស្មោះត្រង់ ច្រើននៅជួយយាមផ្ទះ។",
+    "definition_en": "A loyal domestic animal often kept as a pet or guard.",
+    "part_of_speech": "noun",
+    "category": "animals",
+    "verified_syllables": ["ឆ្កែ"],
+    "example_km": "ឆ្កែរបស់ខ្ញុំរត់លឿនណាស់។",
+    "example_en": "My dog runs very fast.",
+    "hints": {
+      "easy": "It is a common pet at home.",
+      "medium": "It barks and guards the house.",
+      "strong": "This 1-syllable word starts with ឆ្ក."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/dog.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ឆ្កែ"]
+  },
+  {
+    "id": "animals_cat_005",
+    "khmer": "ឆ្មា",
+    "english": "Cat",
+    "definition_km": "សត្វចិញ្ចឹមតូចមួយប្រភេទ ចូលចិត្តចាប់កណ្តុរ។",
+    "definition_en": "A small furry domestic animal that likes chasing mice.",
+    "part_of_speech": "noun",
+    "category": "animals",
+    "verified_syllables": ["ឆ្មា"],
+    "example_km": "ឆ្មាកំពុងដេកលើកៅអី។",
+    "example_en": "The cat is sleeping on the chair.",
+    "hints": {
+      "easy": "It is a small pet at home.",
+      "medium": "It says meow and chases mice.",
+      "strong": "This 1-syllable word starts with ឆ្ម."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/cat.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ឆ្មា"]
+  },
+  {
+    "id": "animals_fish_006",
+    "khmer": "ត្រី",
+    "english": "Fish",
+    "definition_km": "សត្វរស់នៅក្នុងទឹក និងហែលដោយប្រើព្រុយ។",
+    "definition_en": "An animal that lives and swims in water.",
+    "part_of_speech": "noun",
+    "category": "animals",
+    "verified_syllables": ["ត្រី"],
+    "example_km": "ត្រីហែលក្នុងទន្លេ។",
+    "example_en": "Fish swim in the river.",
+    "hints": {
+      "easy": "It lives in the water.",
+      "medium": "It swims in rivers and ponds.",
+      "strong": "This 1-syllable word starts with ត្រ."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/fish.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ត្រី"]
+  },
+  {
+    "id": "animals_chicken_007",
+    "khmer": "មាន់",
+    "english": "Chicken",
+    "definition_km": "សត្វស្លាបចិញ្ចឹមនៅផ្ទះ សម្រាប់ពង និងសាច់។",
+    "definition_en": "A domestic farm bird raised for eggs and meat.",
+    "part_of_speech": "noun",
+    "category": "animals",
+    "verified_syllables": ["មាន់"],
+    "example_km": "មាន់រងាវនៅពេលព្រឹក។",
+    "example_en": "The rooster crows in the morning.",
+    "hints": {
+      "easy": "It is a farm bird.",
+      "medium": "It lays eggs and wakes people up in the morning.",
+      "strong": "This 1-syllable word uses Bantoc ់ at the end."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/chicken.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: មាន់"]
+  },
+  {
+    "id": "animals_duck_008",
+    "khmer": "ទា",
+    "english": "Duck",
+    "definition_km": "សត្វស្លាបចេះហែលទឹក និងរស់នៅជិតទឹក។",
+    "definition_en": "A water bird with a flat bill that swims well.",
+    "part_of_speech": "noun",
+    "category": "animals",
+    "verified_syllables": ["ទា"],
+    "example_km": "ទាកំពុងហែលក្នុងទឹក។",
+    "example_en": "The duck is swimming in the water.",
+    "hints": {
+      "easy": "It is a bird that loves water.",
+      "medium": "It swims in ponds and quacks.",
+      "strong": "This short 1-syllable word starts with ទ."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/duck.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ទា"]
+  },
+  {
+    "id": "animals_butterfly_009",
+    "khmer": "មេអំបៅ",
+    "english": "Butterfly",
+    "definition_km": "សត្វល្អិតមានស្លាបពណ៌ស្អាត ហើររកផ្កា។",
+    "definition_en": "An insect with colorful wings that flies around flowers.",
+    "part_of_speech": "noun",
+    "category": "animals",
+    "verified_syllables": ["មេ", "អំ", "បៅ"],
+    "example_km": "មេអំបៅហើរលើផ្កា។",
+    "example_en": "The butterfly flies over the flower.",
+    "hints": {
+      "easy": "It is a flying insect.",
+      "medium": "It has colorful wings and visits flowers.",
+      "strong": "This 3-syllable word starts with មេ."
+    },
+    "difficulty": "hard",
+    "image": "assets/images/vocabulary/butterfly.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: មេអំបៅ"]
+  },
+  {
+    "id": "family_father_010",
+    "khmer": "ឪពុក",
+    "english": "Father",
+    "definition_km": "បុរសដែលជាអ្នកបង្កើត និងថែរក្សាកូន។",
+    "definition_en": "A male parent.",
+    "part_of_speech": "noun",
+    "category": "family",
+    "verified_syllables": ["ឪ", "ពុក"],
+    "example_km": "ឪពុករបស់ខ្ញុំទៅធ្វើការ។",
+    "example_en": "My father goes to work.",
+    "hints": {
+      "easy": "It is a member of the family.",
+      "medium": "The male parent in a family.",
+      "strong": "This 2-syllable word starts with independent vowel ឪ."
+    },
+    "difficulty": "medium",
+    "image": "assets/images/vocabulary/father.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ឪពុក"]
+  },
+  {
+    "id": "family_mother_011",
+    "khmer": "ម្តាយ",
+    "english": "Mother",
+    "definition_km": "ស្ត្រីដែលជាអ្នកបង្កើត និងចិញ្ចឹមបីបាច់កូន។",
+    "definition_en": "A female parent.",
+    "part_of_speech": "noun",
+    "category": "family",
+    "verified_syllables": ["ម្តាយ"],
+    "example_km": "ម្តាយខ្ញុំដាំបាយរាល់ថ្ងៃ។",
+    "example_en": "My mother cooks rice every day.",
+    "hints": {
+      "easy": "It is a parent in the family.",
+      "medium": "The female parent who cares for children.",
+      "strong": "This 1-cluster word begins with ម."
+    },
+    "difficulty": "medium",
+    "image": "assets/images/vocabulary/mother.png",
+    "verification": {
+      "spelling": "needs_review",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ម្តាយ"],
+    "notes": "Confirm dictionary preference between subscript ្ត and ្ដ; single orthographic cluster—do not split."
+  },
+  {
+    "id": "family_child_012",
+    "khmer": "កូន",
+    "english": "Child / Offspring",
+    "definition_km": "អ្នកដែលកើតចេញពីឪពុកម្តាយ។",
+    "definition_en": "A son, daughter, or young offspring.",
+    "part_of_speech": "noun",
+    "category": "family",
+    "verified_syllables": ["កូន"],
+    "example_km": "កូនស្រឡាញ់ឪពុកម្តាយ។",
+    "example_en": "The child loves their parents.",
+    "hints": {
+      "easy": "It is a family relationship word.",
+      "medium": "A son or daughter of parents.",
+      "strong": "This 1-syllable word starts with ក."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/child.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: កូន"]
+  },
+  {
+    "id": "family_kid_013",
+    "khmer": "កូនក្មេង",
+    "english": "Kid / Child",
+    "definition_km": "ក្មេងតូចដែលមិនទាន់ធំពេញវ័យ។",
+    "definition_en": "A young child.",
+    "part_of_speech": "compound_noun",
+    "category": "family",
+    "verified_syllables": ["កូន", "ក្មេង"],
+    "example_km": "កូនក្មេងលេងនៅមុខផ្ទះ។",
+    "example_en": "The kid plays in front of the house.",
+    "hints": {
+      "easy": "It refers to a young person.",
+      "medium": "The young character navigating the maze.",
+      "strong": "This compound joins កូន and ក្មេង."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/kid.png",
+    "verification": {
+      "spelling": "needs_review",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["General Khmer lexicon: កូនក្មេង"]
+  },
+  {
+    "id": "family_older_sibling_014",
+    "khmer": "បង",
+    "english": "Older sibling",
+    "definition_km": "អ្នកកើតមុននៅក្នុងគ្រួសារ ឬពាក្យហៅគួរសមដល់អ្នកមានអាយុច្រើនជាង។",
+    "definition_en": "Older brother or sister; polite term for someone slightly older.",
+    "part_of_speech": "noun",
+    "category": "family",
+    "verified_syllables": ["បង"],
+    "example_km": "បងជួយបង្រៀនប្អូនអានសៀវភៅ។",
+    "example_en": "The older sibling helps teach the younger sibling to read.",
+    "hints": {
+      "easy": "It is a family word.",
+      "medium": "A brother or sister who is older than you.",
+      "strong": "This 1-syllable word starts with ប."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/older_sibling.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: បង"]
+  },
+  {
+    "id": "family_younger_sibling_015",
+    "khmer": "ប្អូន",
+    "english": "Younger sibling",
+    "definition_km": "អ្នកកើតក្រោយនៅក្នុងគ្រួសារ ឬពាក្យហៅអ្នកមានអាយុតិចជាង។",
+    "definition_en": "Younger brother or sister.",
+    "part_of_speech": "noun",
+    "category": "family",
+    "verified_syllables": ["ប្អូន"],
+    "example_km": "ប្អូនខ្ញុំទៅសាលារៀនដែរ។",
+    "example_en": "My younger sibling goes to school too.",
+    "hints": {
+      "easy": "It is a family word.",
+      "medium": "A brother or sister who is younger than you.",
+      "strong": "This 1-syllable word starts with ប្អ."
+    },
+    "difficulty": "medium",
+    "image": "assets/images/vocabulary/younger_sibling.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ប្អូន"]
+  },
+  {
+    "id": "family_grandfather_016",
+    "khmer": "តា",
+    "english": "Grandfather",
+    "definition_km": "ឪពុករបស់ឪពុក ឬឪពុករបស់ម្តាយ។",
+    "definition_en": "Grandfather; also respectful term for an elderly man.",
+    "part_of_speech": "noun",
+    "category": "family",
+    "verified_syllables": ["តា"],
+    "example_km": "តារបស់ខ្ញុំចូលចិត្តផឹកតែ។",
+    "example_en": "My grandfather likes drinking tea.",
+    "hints": {
+      "easy": "It is an older family member.",
+      "medium": "The father of your mother or father.",
+      "strong": "This short 1-syllable word starts with ត."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/grandfather.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: តា"]
+  },
+  {
+    "id": "family_grandmother_017",
+    "khmer": "យាយ",
+    "english": "Grandmother",
+    "definition_km": "ម្តាយរបស់ឪពុក ឬម្តាយរបស់ម្តាយ។",
+    "definition_en": "Grandmother; also respectful term for an elderly woman.",
+    "part_of_speech": "noun",
+    "category": "family",
+    "verified_syllables": ["យាយ"],
+    "example_km": "យាយទៅផ្សារទិញផ្លែឈើ។",
+    "example_en": "Grandmother goes to the market to buy fruit.",
+    "hints": {
+      "easy": "It is an older family member.",
+      "medium": "The mother of your mother or father.",
+      "strong": "This 1-syllable word starts with យ."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/grandmother.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: យាយ"]
+  },
+  {
+    "id": "food_rice_018",
+    "khmer": "បាយ",
+    "english": "Cooked rice / Meal",
+    "definition_km": "អង្ករដែលដាំឆ្អិនសម្រាប់បរិភោគ ឬអាហារប្រចាំថ្ងៃ។",
+    "definition_en": "Cooked rice, or a meal in general.",
+    "part_of_speech": "noun",
+    "category": "food",
+    "verified_syllables": ["បាយ"],
+    "example_km": "គ្រួសារខ្ញុំញ៉ាំបាយពេលល្ងាច។",
+    "example_en": "My family eats dinner together.",
+    "hints": {
+      "easy": "It is a staple food in Cambodia.",
+      "medium": "Cooked white grains eaten at every meal.",
+      "strong": "This 1-syllable word starts with ប."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/rice.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: បាយ"]
+  },
+  {
+    "id": "food_water_019",
+    "khmer": "ទឹក",
+    "english": "Water",
+    "definition_km": "វត្ថុរាវថ្លា គ្មានពណ៌ សម្រាប់ផឹក និងប្រើប្រាស់ប្រចាំថ្ងៃ។",
+    "definition_en": "Clear liquid needed for drinking and life.",
+    "part_of_speech": "noun",
+    "category": "food",
+    "verified_syllables": ["ទឹក"],
+    "example_km": "យើងត្រូវផឹកទឹកស្អាតរាល់ថ្ងៃ។",
+    "example_en": "We need to drink clean water every day.",
+    "hints": {
+      "easy": "It is something you drink.",
+      "medium": "It fills rivers and rain, and keeps us hydrated.",
+      "strong": "This 1-syllable word starts with ទ."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/water.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ទឹក"]
+  },
+  {
+    "id": "food_cake_020",
+    "khmer": "នំ",
+    "english": "Cake / Snack",
+    "definition_km": "ចំណីអាហារផ្អែម ឬប្រៃធ្វើពីម្សៅ។",
+    "definition_en": "Cake, pastry, bread, or baked/steamed snack.",
+    "part_of_speech": "noun",
+    "category": "food",
+    "verified_syllables": ["នំ"],
+    "example_km": "កូនក្មេងចូលចិត្តញ៉ាំនំ។",
+    "example_en": "Children like eating snacks/cakes.",
+    "hints": {
+      "easy": "It is a sweet food or snack.",
+      "medium": "Often eaten at celebrations or as a treat.",
+      "strong": "This short 1-syllable word starts with ន."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/cake.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: នំ"]
+  },
+  {
+    "id": "food_fruit_021",
+    "khmer": "ផ្លែឈើ",
+    "english": "Fruit",
+    "definition_km": "ផលដែលដុះចេញពីដើមឈើ សម្រាប់បរិភោគ។",
+    "definition_en": "Edible sweet produce that grows on trees or plants.",
+    "part_of_speech": "compound_noun",
+    "category": "food",
+    "verified_syllables": ["ផ្លែ", "ឈើ"],
+    "example_km": "ផ្លែឈើមានប្រយោជន៍ដល់សុខភាព។",
+    "example_en": "Fruit is good for health.",
+    "hints": {
+      "easy": "It is healthy food.",
+      "medium": "Sweet food like mango and banana that grows on trees.",
+      "strong": "This compound joins ផ្លែ and ឈើ."
+    },
+    "difficulty": "medium",
+    "image": "assets/images/vocabulary/fruit.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ផ្លែឈើ"]
+  },
+  {
+    "id": "food_vegetable_022",
+    "khmer": "បន្លែ",
+    "english": "Vegetable",
+    "definition_km": "រុក្ខជាតិ ស្លឹក ឬដើម សម្រាប់ធ្វើម្ហូបអាហារ។",
+    "definition_en": "Edible plants or leaves used in cooking.",
+    "part_of_speech": "noun",
+    "category": "food",
+    "verified_syllables": ["បន្លែ"],
+    "example_km": "ម្តាយទិញបន្លែស្រស់ពីផ្សារ។",
+    "example_en": "Mother buys fresh vegetables from the market.",
+    "hints": {
+      "easy": "It is a healthy plant food.",
+      "medium": "Green leaves and plants cooked with meals.",
+      "strong": "This word contains subscript ្ល attached to ន."
+    },
+    "difficulty": "medium",
+    "image": "assets/images/vocabulary/vegetable.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: បន្លែ"],
+    "notes": "2 spoken syllables, but ្ល attaches to ន—do not split at ន្ល in Syllable Ordering."
+  },
+  {
+    "id": "food_meat_023",
+    "khmer": "សាច់",
+    "english": "Meat",
+    "definition_km": "សាច់សត្វសម្រាប់យកមកចម្អិនជាអាហារ។",
+    "definition_en": "Animal flesh eaten as food.",
+    "part_of_speech": "noun",
+    "category": "food",
+    "verified_syllables": ["សាច់"],
+    "example_km": "សាច់ត្រីមានរសជាតិឆ្ងាញ់។",
+    "example_en": "Fish meat tastes delicious.",
+    "hints": {
+      "easy": "It is a type of food.",
+      "medium": "Cooked together with vegetables and rice.",
+      "strong": "This 1-syllable word ends with ច់."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/meat.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: សាច់"]
+  },
+  {
+    "id": "food_milk_024",
+    "khmer": "ទឹកដោះគោ",
+    "english": "Milk",
+    "definition_km": "ភេសជ្ជៈពណ៌សដែលបានមកពីគោ ជួយឱ្យរាងកាយរឹងមាំ។",
+    "definition_en": "White nutritious drink produced by cows.",
+    "part_of_speech": "compound_noun",
+    "category": "food",
+    "verified_syllables": ["ទឹក", "ដោះ", "គោ"],
+    "example_km": "សិស្សផឹកទឹកដោះគោពេលព្រឹក។",
+    "example_en": "The student drinks milk in the morning.",
+    "hints": {
+      "easy": "It is a white drink.",
+      "medium": "It comes from cows and helps children grow strong.",
+      "strong": "This 3-part compound starts with ទឹក and ends with គោ."
+    },
+    "difficulty": "hard",
+    "image": "assets/images/vocabulary/milk.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ទឹកដោះគោ"]
+  },
+  {
+    "id": "food_banana_025",
+    "khmer": "ចេក",
+    "english": "Banana",
+    "definition_km": "ផ្លែឈើរាងវែង សំបកពណ៌លឿងពេលទុំ និងមានរសជាតិផ្អែម។",
+    "definition_en": "A curved fruit with yellow peel when ripe.",
+    "part_of_speech": "noun",
+    "category": "food",
+    "verified_syllables": ["ចេក"],
+    "example_km": "ដំរីចូលចិត្តស៊ីចេក។",
+    "example_en": "Elephants like eating bananas.",
+    "hints": {
+      "easy": "It is a sweet fruit.",
+      "medium": "It is yellow when ripe and elephants love it.",
+      "strong": "This 1-syllable word starts with ច."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/banana.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ចេក"]
+  },
+  {
+    "id": "food_mango_026",
+    "khmer": "ផ្លែស្វាយ",
+    "english": "Mango",
+    "definition_km": "ផ្លែឈើដ៏ពេញនិយមនៅកម្ពុជា មានរសជាតិជូរ ឬផ្អែម។",
+    "definition_en": "A tropical fruit common in Cambodia, sour when green and sweet when ripe.",
+    "part_of_speech": "compound_noun",
+    "category": "food",
+    "verified_syllables": ["ផ្លែ", "ស្វាយ"],
+    "example_km": "ផ្លែស្វាយទុំមានរសជាតិផ្អែម។",
+    "example_en": "Ripe mangoes taste sweet.",
+    "hints": {
+      "easy": "It is a tropical fruit.",
+      "medium": "Green when unripe and sweet yellow when ripe.",
+      "strong": "This 2-part word starts with ផ្លែ."
+    },
+    "difficulty": "medium",
+    "image": "assets/images/vocabulary/mango.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["General Khmer lexicon: ផ្លែស្វាយ"]
+  },
+  {
+    "id": "nature_flower_027",
+    "khmer": "ផ្កា",
+    "english": "Flower",
+    "definition_km": "ផ្នែករបស់រុក្ខជាតិដែលមានពណ៌ស្អាត និងក្លិនក្រអូប។",
+    "definition_en": "The colorful blossom of a plant.",
+    "part_of_speech": "noun",
+    "category": "nature",
+    "verified_syllables": ["ផ្កា"],
+    "example_km": "ផ្កានៅក្នុងសួនច្បារស្អាតណាស់។",
+    "example_en": "The flowers in the garden are very pretty.",
+    "hints": {
+      "easy": "It grows on plants.",
+      "medium": "It has bright colors and butterflies visit it.",
+      "strong": "This 1-syllable word starts with ផ្ក."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/flower.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ផ្កា"]
+  },
+  {
+    "id": "nature_tree_028",
+    "khmer": "ដើមឈើ",
+    "english": "Tree",
+    "definition_km": "រុក្ខជាតិខ្ពស់ធំ មានដើម មែក និងស្លឹក។",
+    "definition_en": "A tall woody plant with a trunk, branches, and leaves.",
+    "part_of_speech": "compound_noun",
+    "category": "nature",
+    "verified_syllables": ["ដើម", "ឈើ"],
+    "example_km": "ដើមឈើផ្តល់ម្លប់ត្រជាក់។",
+    "example_en": "Trees provide cool shade.",
+    "hints": {
+      "easy": "It is a large plant.",
+      "medium": "It has a trunk, leaves, and gives shade.",
+      "strong": "This 2-syllable compound starts with ដើម."
+    },
+    "difficulty": "medium",
+    "image": "assets/images/vocabulary/tree.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ដើមឈើ"]
+  },
+  {
+    "id": "nature_forest_029",
+    "khmer": "ព្រៃឈើ",
+    "english": "Forest",
+    "definition_km": "ទីកន្លែងដែលមានដើមឈើដុះច្រើន និងជាជម្រកសត្វព្រៃ។",
+    "definition_en": "A large area covered with many trees where wild animals live.",
+    "part_of_speech": "compound_noun",
+    "category": "nature",
+    "verified_syllables": ["ព្រៃ", "ឈើ"],
+    "example_km": "យើងត្រូវការពារព្រៃឈើ។",
+    "example_en": "We must protect the forest.",
+    "hints": {
+      "easy": "It is a place in nature.",
+      "medium": "Full of tall trees where tigers and elephants live.",
+      "strong": "This 2-syllable compound starts with ព្រៃ."
+    },
+    "difficulty": "medium",
+    "image": "assets/images/vocabulary/forest.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ព្រៃឈើ"]
+  },
+  {
+    "id": "nature_mountain_030",
+    "khmer": "ភ្នំ",
+    "english": "Mountain",
+    "definition_km": "ទីដីខ្ពស់ធំជាងដីធម្មតា។",
+    "definition_en": "A high natural landform rising above the surrounding land.",
+    "part_of_speech": "noun",
+    "category": "nature",
+    "verified_syllables": ["ភ្នំ"],
+    "example_km": "ភ្នំមានខ្យល់អាកាសបរិសុទ្ធ។",
+    "example_en": "The mountain has fresh air.",
+    "hints": {
+      "easy": "It is a landform in nature.",
+      "medium": "Very tall rock and earth reaching high toward the sky.",
+      "strong": "This 1-syllable word starts with ភ្ន."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/mountain.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ភ្នំ"]
+  },
+  {
+    "id": "nature_river_031",
+    "khmer": "ទន្លេ",
+    "english": "River",
+    "definition_km": "ផ្លូវទឹកធំធម្មជាតិដែលហូរកាត់ដី។",
+    "definition_en": "A large natural flowing stream of water.",
+    "part_of_speech": "noun",
+    "category": "nature",
+    "verified_syllables": ["ទន្លេ"],
+    "example_km": "ទូកកំពុងបើកលើទន្លេ។",
+    "example_en": "A boat is moving on the river.",
+    "hints": {
+      "easy": "It is a place with lots of water.",
+      "medium": "A wide flowing body of water where boats travel.",
+      "strong": "This word contains subscript ្ល attached to ន."
+    },
+    "difficulty": "medium",
+    "image": "assets/images/vocabulary/river.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ទន្លេ"],
+    "notes": "2 spoken syllables (/tŭən.lei/), but ្ល attaches to ន—keep intact and do not split at ន្ល."
+  },
+  {
+    "id": "nature_sky_032",
+    "khmer": "មេឃ",
+    "english": "Sky",
+    "definition_km": "លំហខាងលើផែនដី ដែលមានពពក ព្រះអាទិត្យ និងផ្កាយ។",
+    "definition_en": "The space above the earth where clouds and the sun appear.",
+    "part_of_speech": "noun",
+    "category": "nature",
+    "verified_syllables": ["មេឃ"],
+    "example_km": "ថ្ងៃនេះមេឃស្រឡះស្អាត។",
+    "example_en": "Today the sky is clear and bright.",
+    "hints": {
+      "easy": "Look up to see it.",
+      "medium": "Clouds, the sun, and stars appear here.",
+      "strong": "This 1-syllable word ends with ឃ."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/sky.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: មេឃ"]
+  },
+  {
+    "id": "nature_sun_033",
+    "khmer": "ព្រះអាទិត្យ",
+    "english": "Sun",
+    "definition_km": "ផ្កាយភ្លឺធំនៅលើមេឃ ដែលផ្តល់ពន្លឺ និងកម្តៅដល់ផែនដី។",
+    "definition_en": "The bright star in the sky that gives light and warmth.",
+    "part_of_speech": "noun",
+    "category": "nature",
+    "verified_syllables": ["ព្រះ", "អាទិត្យ"],
+    "example_km": "ព្រះអាទិត្យរះនៅពេលព្រឹក។",
+    "example_en": "The sun rises in the morning.",
+    "hints": {
+      "easy": "It shines brightly in the sky.",
+      "medium": "It gives us daylight and warmth during the day.",
+      "strong": "This compound begins with ព្រះ."
+    },
+    "difficulty": "hard",
+    "image": "assets/images/vocabulary/sun.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ព្រះអាទិត្យ"]
+  },
+  {
+    "id": "nature_rain_034",
+    "khmer": "ភ្លៀង",
+    "english": "Rain",
+    "definition_km": "ដំណក់ទឹកដែលធ្លាក់ចុះពីពពកលើមេឃ។",
+    "definition_en": "Water droplets falling from clouds in the sky.",
+    "part_of_speech": "noun",
+    "category": "nature",
+    "verified_syllables": ["ភ្លៀង"],
+    "example_km": "ភ្លៀងធ្លាក់ជួយឱ្យដើមឈើលូតលាស់។",
+    "example_en": "Rain helps trees grow.",
+    "hints": {
+      "easy": "It is weather with water.",
+      "medium": "Water falling from dark clouds in the sky.",
+      "strong": "This 1-syllable word starts with ភ្ល."
+    },
+    "difficulty": "medium",
+    "image": "assets/images/vocabulary/rain.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ភ្លៀង"]
+  },
+  {
+    "id": "nature_environment_035",
+    "khmer": "បរិស្ថាន",
+    "english": "Environment",
+    "definition_km": "ធម្មជាតិ ទឹក ដី ខ្យល់ និងអ្វីៗដែលនៅជុំវិញយើង។",
+    "definition_en": "The natural world and surroundings around us.",
+    "part_of_speech": "noun",
+    "category": "nature",
+    "verified_syllables": null,
+    "example_km": "សិស្សរួមគ្នាថែរក្សាបរិស្ថាន។",
+    "example_en": "Students work together to care for the environment.",
+    "hints": {
+      "easy": "It refers to the world around us.",
+      "medium": "Includes trees, water, air, and land we must protect.",
+      "strong": "Starts with ប and ends with ស្ថាន."
+    },
+    "difficulty": "hard",
+    "image": "assets/images/vocabulary/environment.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: បរិស្ថាន"],
+    "notes": "Orthographic KCCs (ប-រិ-ស្ថាន) differ from spoken boundary (/paʔ.rəh.tʰaːn/); marked null pending teacher review."
+  },
+  {
+    "id": "education_school_036",
+    "khmer": "សាលារៀន",
+    "english": "School",
+    "definition_km": "ទីកន្លែងសម្រាប់សិស្សមកសិក្សារៀនសូត្រ។",
+    "definition_en": "A place where students go to learn.",
+    "part_of_speech": "compound_noun",
+    "category": "education",
+    "verified_syllables": ["សា", "លា", "រៀន"],
+    "example_km": "ខ្ញុំទៅសាលារៀននៅពេលព្រឹក។",
+    "example_en": "I go to school in the morning.",
+    "hints": {
+      "easy": "It is a place for learning.",
+      "medium": "Teachers and students meet here every weekday.",
+      "strong": "This 3-syllable word starts with សា."
+    },
+    "difficulty": "hard",
+    "image": "assets/images/vocabulary/school.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: សាលារៀន"]
+  },
+  {
+    "id": "education_book_037",
+    "khmer": "សៀវភៅ",
+    "english": "Book",
+    "definition_km": "សន្លឹកក្រដាសចងជាក្បាល សម្រាប់អាន ឬសរសេរ។",
+    "definition_en": "Bound pages used for reading or writing.",
+    "part_of_speech": "noun",
+    "category": "education",
+    "verified_syllables": ["សៀវ", "ភៅ"],
+    "example_km": "សិស្សបើកសៀវភៅអានមេរៀន។",
+    "example_en": "The student opens a book to read the lesson.",
+    "hints": {
+      "easy": "It is a study item.",
+      "medium": "You turn its pages to read stories and lessons.",
+      "strong": "This 2-syllable word starts with សៀវ."
+    },
+    "difficulty": "medium",
+    "image": "assets/images/vocabulary/book.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: សៀវភៅ"]
+  },
+  {
+    "id": "education_pen_038",
+    "khmer": "ប៊ិច",
+    "english": "Pen",
+    "definition_km": "ឧបករណ៍ប្រើទឹកថ្នាំសម្រាប់សរសេរ។",
+    "definition_en": "An ink tool used for writing.",
+    "part_of_speech": "noun",
+    "category": "education",
+    "verified_syllables": ["ប៊ិច"],
+    "example_km": "ខ្ញុំសរសេរដោយប្រើប៊ិចខៀវ។",
+    "example_en": "I write using a blue pen.",
+    "hints": {
+      "easy": "It is a writing tool.",
+      "medium": "Uses ink to write on paper.",
+      "strong": "This 1-syllable word uses Triisap ៊ on ប."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/pen.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ប៊ិច"]
+  },
+  {
+    "id": "education_pencil_039",
+    "khmer": "ខ្មៅដៃ",
+    "english": "Pencil",
+    "definition_km": "ឧបករណ៍សម្រាប់សរសេរ ឬគូរ និងអាចលុបបាន។",
+    "definition_en": "A writing or drawing tool whose marks can be erased.",
+    "part_of_speech": "compound_noun",
+    "category": "education",
+    "verified_syllables": ["ខ្មៅ", "ដៃ"],
+    "example_km": "កូនក្មេងគូររូបដំរីដោយប្រើខ្មៅដៃ។",
+    "example_en": "The kid draws an elephant using a pencil.",
+    "hints": {
+      "easy": "It is a classroom tool.",
+      "medium": "Used for writing and drawing, and you can erase it.",
+      "strong": "This 2-syllable compound ends with ដៃ."
+    },
+    "difficulty": "medium",
+    "image": "assets/images/vocabulary/pencil.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ខ្មៅដៃ"]
+  },
+  {
+    "id": "education_blackboard_040",
+    "khmer": "ក្តារខៀន",
+    "english": "Blackboard / Whiteboard",
+    "definition_km": "ផ្ទាំងក្តារនៅក្នុងថ្នាក់រៀន សម្រាប់គ្រូសរសេរមេរៀន។",
+    "definition_en": "A classroom board where the teacher writes lessons.",
+    "part_of_speech": "compound_noun",
+    "category": "education",
+    "verified_syllables": ["ក្តារ", "ខៀន"],
+    "example_km": "គ្រូសរសេរអក្សរខ្មែរលើក្តារខៀន។",
+    "example_en": "The teacher writes Khmer letters on the board.",
+    "hints": {
+      "easy": "It is found at the front of a classroom.",
+      "medium": "Teachers write lessons on it for everyone to see.",
+      "strong": "This 2-syllable compound starts with ក្តារ."
+    },
+    "difficulty": "hard",
+    "image": "assets/images/vocabulary/blackboard.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ក្តារខៀន"]
+  },
+  {
+    "id": "education_teacher_041",
+    "khmer": "គ្រូបង្រៀន",
+    "english": "Teacher",
+    "definition_km": "អ្នកដែលបង្ហាត់បង្រៀនចំណេះដឹងដល់សិស្ស។",
+    "definition_en": "A person who teaches students at school.",
+    "part_of_speech": "compound_noun",
+    "category": "education",
+    "verified_syllables": ["គ្រូ", "បង្រៀន"],
+    "example_km": "គ្រូបង្រៀនពន្យល់មេរៀនយ៉ាងច្បាស់។",
+    "example_en": "The teacher explains the lesson clearly.",
+    "hints": {
+      "easy": "A person who works at school.",
+      "medium": "Helps students learn to read and write.",
+      "strong": "This compound begins with គ្រូ."
+    },
+    "difficulty": "hard",
+    "image": "assets/images/vocabulary/teacher.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: គ្រូបង្រៀន"],
+    "notes": "Keep បង្រៀន intact; ្រ attaches as a subscript to ង."
+  },
+  {
+    "id": "education_student_042",
+    "khmer": "សិស្ស",
+    "english": "Student",
+    "definition_km": "អ្នកដែលកំពុងសិក្សារៀនសូត្រនៅសាលារៀន។",
+    "definition_en": "A learner who studies at school.",
+    "part_of_speech": "noun",
+    "category": "education",
+    "verified_syllables": ["សិស្ស"],
+    "example_km": "សិស្សប្រឹងប្រែងរៀនភាសាខ្មែរ។",
+    "example_en": "The student tries hard to learn Khmer.",
+    "hints": {
+      "easy": "A person at school.",
+      "medium": "Listens to the teacher and studies lessons.",
+      "strong": "This 1-syllable word starts with សិ."
+    },
+    "difficulty": "medium",
+    "image": "assets/images/vocabulary/student.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: សិស្ស"]
+  },
+  {
+    "id": "education_desk_043",
+    "khmer": "តុ",
+    "english": "Desk / Table",
+    "definition_km": "គ្រឿងសង្ហារិមមានជើង និងផ្ទៃរាប សម្រាប់ដាក់សៀវភៅ ឬអាហារ។",
+    "definition_en": "A flat-topped piece of furniture used for studying or eating.",
+    "part_of_speech": "noun",
+    "category": "education",
+    "verified_syllables": ["តុ"],
+    "example_km": "សៀវភៅនៅលើតុ។",
+    "example_en": "The book is on the desk.",
+    "hints": {
+      "easy": "It is furniture in a classroom or home.",
+      "medium": "You put your books and notebooks on it.",
+      "strong": "This very short 1-syllable word starts with ត."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/desk.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: តុ"]
+  },
+  {
+    "id": "daily_life_house_044",
+    "khmer": "ផ្ទះ",
+    "english": "House",
+    "definition_km": "អគារសម្រាប់មនុស្ស និងគ្រួសាររស់នៅ។",
+    "definition_en": "A building where a family lives.",
+    "part_of_speech": "noun",
+    "category": "daily_life",
+    "verified_syllables": ["ផ្ទះ"],
+    "example_km": "ផ្ទះរបស់ខ្ញុំមានសួនផ្កាស្អាត។",
+    "example_en": "My house has a pretty flower garden.",
+    "hints": {
+      "easy": "It is a place where people live.",
+      "medium": "Has a roof, doors, and rooms for a family.",
+      "strong": "This 1-syllable word ends with Reahmukh ះ."
+    },
+    "difficulty": "easy",
+    "image": "assets/images/vocabulary/house.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ផ្ទះ"]
+  },
+  {
+    "id": "daily_life_chair_045",
+    "khmer": "កៅអី",
+    "english": "Chair",
+    "definition_km": "គ្រឿងសង្ហារិមសម្រាប់អង្គុយ។",
+    "definition_en": "A seat for one person.",
+    "part_of_speech": "noun",
+    "category": "daily_life",
+    "verified_syllables": ["កៅ", "អី"],
+    "example_km": "សូមអង្គុយលើកៅអីនេះ។",
+    "example_en": "Please sit on this chair.",
+    "hints": {
+      "easy": "It is a piece of furniture.",
+      "medium": "You sit on it at a desk or table.",
+      "strong": "This 2-syllable word starts with កៅ."
+    },
+    "difficulty": "medium",
+    "image": "assets/images/vocabulary/chair.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: កៅអី"]
+  },
+  {
+    "id": "daily_life_door_046",
+    "khmer": "ទ្វារ",
+    "english": "Door",
+    "definition_km": "សន្ទះសម្រាប់បិទ ឬបើកផ្លូវចេញចូលផ្ទះ ឬបន្ទប់។",
+    "definition_en": "A movable barrier used to open or close an entrance.",
+    "part_of_speech": "noun",
+    "category": "daily_life",
+    "verified_syllables": ["ទ្វារ"],
+    "example_km": "សិស្សបើកទ្វារចូលក្នុងថ្នាក់រៀន។",
+    "example_en": "The student opens the door to enter the classroom.",
+    "hints": {
+      "easy": "Found at the entrance of a room or house.",
+      "medium": "You open it to walk inside—and unlock it in the maze!",
+      "strong": "This 1-syllable word starts with ទ្វ."
+    },
+    "difficulty": "medium",
+    "image": "assets/images/vocabulary/door.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ទ្វារ"]
+  },
+  {
+    "id": "daily_life_road_047",
+    "khmer": "ផ្លូវ",
+    "english": "Road / Street",
+    "definition_km": "ដី ឬសំណង់សម្រាប់មនុស្សដើរ និងយានជំនិះធ្វើដំណើរ។",
+    "definition_en": "A path or street for walking and vehicles.",
+    "part_of_speech": "noun",
+    "category": "daily_life",
+    "verified_syllables": ["ផ្លូវ"],
+    "example_km": "ផ្លូវទៅសាលារៀនមានដើមឈើច្រើន។",
+    "example_en": "The road to school has many trees.",
+    "hints": {
+      "easy": "You travel along it outside.",
+      "medium": "Bicycles and cars drive on it.",
+      "strong": "This 1-syllable word starts with ផ្ល."
+    },
+    "difficulty": "medium",
+    "image": "assets/images/vocabulary/road.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ផ្លូវ"]
+  },
+  {
+    "id": "daily_life_market_048",
+    "khmer": "ផ្សារ",
+    "english": "Market",
+    "definition_km": "ទីកន្លែងជួបជុំសម្រាប់ទិញ និងលក់ទំនិញ។",
+    "definition_en": "A place where people buy and sell food and goods.",
+    "part_of_speech": "noun",
+    "category": "daily_life",
+    "verified_syllables": ["ផ្សារ"],
+    "example_km": "ម្តាយទិញត្រី និងបន្លែនៅផ្សារ។",
+    "example_en": "Mother buys fish and vegetables at the market.",
+    "hints": {
+      "easy": "It is a busy place in town or the village.",
+      "medium": "People go here to buy fresh fruit, vegetables, and clothes.",
+      "strong": "This 1-syllable word starts with ផ្ស."
+    },
+    "difficulty": "medium",
+    "image": "assets/images/vocabulary/market.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: ផ្សារ"]
+  },
+  {
+    "id": "daily_life_farmer_049",
+    "khmer": "កសិករ",
+    "english": "Farmer",
+    "definition_km": "អ្នកប្រកបរបរដាំដុះស្រូវ ដំណាំ និងចិញ្ចឹមសត្វ។",
+    "definition_en": "A person who grows rice, crops, or raises animals.",
+    "part_of_speech": "noun",
+    "category": "daily_life",
+    "verified_syllables": ["ក", "សិ", "ករ"],
+    "example_km": "កសិករធ្វើស្រែនៅរដូវវស្សា។",
+    "example_en": "Farmers work in the rice fields during the rainy season.",
+    "hints": {
+      "easy": "It is an important job in Cambodia.",
+      "medium": "This person grows rice and vegetables for everyone.",
+      "strong": "This 3-syllable word starts with ក and ends with ករ."
+    },
+    "difficulty": "hard",
+    "image": "assets/images/vocabulary/farmer.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: កសិករ"]
+  },
+  {
+    "id": "daily_life_clock_050",
+    "khmer": "នាឡិកា",
+    "english": "Clock / Watch",
+    "definition_km": "ឧបករណ៍សម្រាប់ប្រាប់ពេលវេលា ម៉ោង និងនាទី។",
+    "definition_en": "A device that tells the time in hours and minutes.",
+    "part_of_speech": "noun",
+    "category": "daily_life",
+    "verified_syllables": ["នា", "ឡិ", "កា"],
+    "example_km": "ខ្ញុំមើលនាឡិកាមុនពេលទៅសាលារៀន។",
+    "example_en": "I check the clock before going to school.",
+    "hints": {
+      "easy": "It is an everyday tool.",
+      "medium": "It has numbers and tells you what time it is.",
+      "strong": "This 3-syllable word starts with នា."
+    },
+    "difficulty": "hard",
+    "image": "assets/images/vocabulary/clock.png",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    },
+    "sources": ["Wiktionary: នាឡិកា"]
+  }
+]
