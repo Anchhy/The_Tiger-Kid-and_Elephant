@@ -1,0 +1,1775 @@
+[
+  {
+    "id": "tiger",
+    "khmerWord": "ខ្លា",
+    "syllables": [
+      "ខ្លា"
+    ],
+    "englishMeaning": "Tiger",
+    "acceptedAnswers": [
+      "Tiger",
+      "Bengal Tiger"
+    ],
+    "category": "animals",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/tiger.png",
+    "hint": "A wild striped cat that chases the kid in the maze.",
+    "hints": {
+      "easy": "A wild striped cat in the jungle.",
+      "medium": "Has orange fur with dark stripes.",
+      "strong": "Chases the kid near the temple entrance."
+    },
+    "educationalNote": "ខ្លា (klaa) is written with the consonant ខ and subscript ្ល followed by the vowel ា.",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "exampleKm": "ខ្លារស់នៅក្នុងព្រៃធំ។"
+  },
+  {
+    "id": "water",
+    "khmerWord": "ទឹក",
+    "syllables": [
+      "ទឹក"
+    ],
+    "englishMeaning": "Water",
+    "acceptedAnswers": [
+      "Water",
+      "Fresh Water"
+    ],
+    "category": "food",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/water.png",
+    "hint": "Something you drink every day.",
+    "hints": {
+      "easy": "Something cool and clear that you drink every day.",
+      "medium": "You can pour it into a cup or lotus bowl.",
+      "strong": "Starts with consonant ទ and vowel ឹ."
+    },
+    "educationalNote": "ទឹក (teuk) combines the consonant ទ, vowel ឹ, and final consonant ក.",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "exampleKm": "កូនក្មេងផឹកទឹកស្អាតរាល់ថ្ងៃ។"
+  },
+  {
+    "id": "elephant",
+    "khmerWord": "ដំរី",
+    "syllables": [
+      "ដំ",
+      "រី"
+    ],
+    "englishMeaning": "Elephant",
+    "acceptedAnswers": [
+      "Elephant",
+      "Cambodian Elephant"
+    ],
+    "category": "animals",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/elephant.png",
+    "hint": "A large animal with a long trunk waiting at the maze destination.",
+    "hints": {
+      "easy": "It is a very large gentle land animal.",
+      "medium": "It has big ears and a long trunk.",
+      "strong": "Starts with the syllable ដំ."
+    },
+    "educationalNote": "ដំរី (damrei) has two syllables: ដំ and រី.",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "exampleKm": "ដំរីដើរយឺតៗក្នុងព្រៃ។"
+  },
+  {
+    "id": "kid",
+    "khmerWord": "កូនក្មេង",
+    "syllables": [
+      "កូន",
+      "ក្មេង"
+    ],
+    "englishMeaning": "Kid / Child",
+    "acceptedAnswers": [
+      "Kid / Child",
+      "Kid",
+      "Child"
+    ],
+    "category": "family",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/kid.png",
+    "hint": "The young character navigating through the maze.",
+    "hints": {
+      "easy": "A young boy or girl.",
+      "medium": "Carries a map and wears a krama scarf in the maze.",
+      "strong": "Starts with the syllable កូន."
+    },
+    "educationalNote": "កូនក្មេង (koun kmeng) pairs កូន (child/offspring) with ក្មេង (young).",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "exampleKm": "កូនក្មេងកំពុងរៀនអានពាក្យខ្មែរ។"
+  },
+  {
+    "id": "flower",
+    "khmerWord": "ផ្កា",
+    "syllables": [
+      "ផ្កា"
+    ],
+    "englishMeaning": "Flower",
+    "acceptedAnswers": [
+      "Flower",
+      "Blossom"
+    ],
+    "category": "nature",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/flower.png",
+    "hint": "A colorful bloom that grows on plants.",
+    "hints": {
+      "easy": "A colorful blossom in a garden or pond.",
+      "medium": "Lotus and Rumduol are famous examples in Cambodia.",
+      "strong": "Uses consonant ផ with subscript ្ក."
+    },
+    "educationalNote": "ផ្កា (pkaa) uses the consonant ផ with subscript ្ក and vowel ា.",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "exampleKm": "ផ្កាឈូករីកស្រស់ស្អាតលើទឹក។"
+  },
+  {
+    "id": "book",
+    "khmerWord": "សៀវភៅ",
+    "syllables": [
+      "សៀវ",
+      "ភៅ"
+    ],
+    "englishMeaning": "Book",
+    "acceptedAnswers": [
+      "Book",
+      "Storybook"
+    ],
+    "category": "education",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/book.png",
+    "hint": "You open it to read stories and study.",
+    "hints": {
+      "easy": "Something with pages that you read.",
+      "medium": "Students bring this to school for reading.",
+      "strong": "Starts with the syllable សៀវ."
+    },
+    "educationalNote": "សៀវភៅ (sievpheou) consists of two syllables: សៀវ and ភៅ.",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "exampleKm": "សិស្សអានសៀវភៅនៅសាលារៀន។"
+  },
+  {
+    "id": "fruit",
+    "khmerWord": "ផ្លែឈើ",
+    "syllables": [
+      "ផ្លែ",
+      "ឈើ"
+    ],
+    "englishMeaning": "Fruit",
+    "acceptedAnswers": [
+      "Fruit",
+      "Fruits"
+    ],
+    "category": "food",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/fruit.png",
+    "hint": "Sweet food that grows on trees.",
+    "hints": {
+      "easy": "Sweet healthy food that grows on trees.",
+      "medium": "Mango and banana belong to this group.",
+      "strong": "Starts with the syllable ផ្លែ."
+    },
+    "educationalNote": "ផ្លែឈើ (plae chheu) combines ផ្លែ (fruit) and ឈើ (tree/wood).",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "exampleKm": "ផ្លែឈើស្រស់មានរសជាតិផ្អែមឆ្ងាញ់។"
+  },
+  {
+    "id": "forest",
+    "khmerWord": "ព្រៃឈើ",
+    "syllables": [
+      "ព្រៃ",
+      "ឈើ"
+    ],
+    "englishMeaning": "Forest",
+    "acceptedAnswers": [
+      "Forest",
+      "Woods",
+      "Jungle"
+    ],
+    "category": "nature",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/forest.png",
+    "hint": "A place full of tall trees where wild animals live.",
+    "hints": {
+      "easy": "A green place filled with many tall trees.",
+      "medium": "Wild animals like tigers and elephants live here.",
+      "strong": "Combines ព្រៃ and ឈើ."
+    },
+    "educationalNote": "ព្រៃឈើ (prei chheu) joins ព្រៃ (wilderness/forest) with ឈើ (trees).",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "exampleKm": "ព្រៃឈើជាផ្ទះរបស់សត្វព្រៃជាច្រើន។"
+  },
+  {
+    "id": "house",
+    "khmerWord": "ផ្ទះ",
+    "syllables": [
+      "ផ្ទះ"
+    ],
+    "englishMeaning": "House",
+    "acceptedAnswers": [
+      "House",
+      "Home"
+    ],
+    "category": "daily_life",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/house.png",
+    "hint": "A building where a family lives.",
+    "hints": {
+      "easy": "A building where a family lives together.",
+      "medium": "Has a roof, windows, and stairs or a door.",
+      "strong": "Starts with ផ and subscript ្ទ."
+    },
+    "educationalNote": "ផ្ទះ (pteah) combines ផ, subscript ្ទ, and the final mark ះ.",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "exampleKm": "ផ្ទះឈើខ្មែរមានខ្យល់អាកាសបរិសុទ្ធ។"
+  },
+  {
+    "id": "country",
+    "khmerWord": "ប្រទេស",
+    "syllables": [
+      "ប្រ",
+      "ទេស"
+    ],
+    "englishMeaning": "Country",
+    "acceptedAnswers": [
+      "Country",
+      "Nation"
+    ],
+    "category": "nature",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/country.png",
+    "hint": "A nation with its own borders and people.",
+    "hints": {
+      "easy": "A nation where citizens share land and culture.",
+      "medium": "Cambodia is one.",
+      "strong": "Starts with the syllable ប្រ."
+    },
+    "educationalNote": "ប្រទេស (prateh) has two syllables: ប្រ and ទេស.",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "exampleKm": "ប្រទេសកម្ពុជាមានប្រាសាទបុរាណល្បីល្បាញ។"
+  },
+  {
+    "id": "school",
+    "khmerWord": "សាលារៀន",
+    "syllables": [
+      "សា",
+      "លា",
+      "រៀន"
+    ],
+    "englishMeaning": "School",
+    "acceptedAnswers": [
+      "School"
+    ],
+    "category": "education",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/school.png",
+    "hint": "A place where students go to learn.",
+    "hints": {
+      "easy": "A place where students go every morning to study.",
+      "medium": "Teachers help learners read and write here.",
+      "strong": "Contains 3 syllables ending with រៀន."
+    },
+    "educationalNote": "សាលារៀន (sala rien) has three syllables: សា, លា, and រៀន.",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "exampleKm": "កូនក្មេងទៅសាលារៀនរៀងរាល់ព្រឹក។"
+  },
+  {
+    "id": "butterfly",
+    "khmerWord": "មេអំបៅ",
+    "syllables": [
+      "មេ",
+      "អំ",
+      "បៅ"
+    ],
+    "englishMeaning": "Butterfly",
+    "acceptedAnswers": [
+      "Butterfly"
+    ],
+    "category": "animals",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/butterfly.png",
+    "hint": "A colorful insect with wings that visits flowers.",
+    "hints": {
+      "easy": "A gentle winged insect that flies from flower to flower.",
+      "medium": "Has bright symmetrical patterns on its wings.",
+      "strong": "Has 3 syllables starting with មេ."
+    },
+    "educationalNote": "មេអំបៅ (me ambao) has three syllables: មេ, អំ, and បៅ.",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "exampleKm": "មេអំបៅហើររកផ្កានៅក្នុងសួន។"
+  },
+  {
+    "id": "environment",
+    "khmerWord": "បរិស្ថាន",
+    "syllables": [
+      "ប",
+      "រិ",
+      "ស្ថាន"
+    ],
+    "englishMeaning": "Environment",
+    "acceptedAnswers": [
+      "Environment",
+      "Nature Surroundings"
+    ],
+    "category": "nature",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/environment.png",
+    "hint": "The natural world around us.",
+    "hints": {
+      "easy": "The rivers, trees, air, and land around us.",
+      "medium": "We keep this clean to protect plants and animals.",
+      "strong": "Has 3 syllables starting with ប."
+    },
+    "educationalNote": "បរិស្ថាន (boristhan) breaks into three syllables: ប, រិ, and ស្ថាន.",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "exampleKm": "យើងត្រូវជួយថែរក្សាបរិស្ថានឱ្យស្អាត។"
+  },
+  {
+    "id": "farmer",
+    "khmerWord": "កសិករ",
+    "syllables": [
+      "ក",
+      "សិ",
+      "ករ"
+    ],
+    "englishMeaning": "Farmer",
+    "acceptedAnswers": [
+      "Farmer"
+    ],
+    "category": "daily_life",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/farmer.png",
+    "hint": "A person who grows crops and raises animals.",
+    "hints": {
+      "easy": "Someone who works in rice fields and farms.",
+      "medium": "Grows rice and fresh food for communities.",
+      "strong": "Starts with ក and ends with ករ."
+    },
+    "educationalNote": "កសិករ (kasekar) has three syllables: ក, សិ, and ករ.",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "exampleKm": "កសិករដាំស្រូវនៅវាលស្រែ។"
+  },
+  {
+    "id": "weather",
+    "khmerWord": "អាកាសធាតុ",
+    "syllables": [
+      "អា",
+      "កាស",
+      "ធាតុ"
+    ],
+    "englishMeaning": "Weather",
+    "acceptedAnswers": [
+      "Weather",
+      "Climate"
+    ],
+    "category": "nature",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/weather.png",
+    "hint": "The condition of sun, rain, and wind outside.",
+    "hints": {
+      "easy": "Shows whether it is sunny, rainy, or windy outside.",
+      "medium": "Changes across dry and rainy seasons.",
+      "strong": "Starts with អា and has 3 syllables."
+    },
+    "educationalNote": "អាកាសធាតុ (akas theat) has three syllables: អា, កាស, and ធាតុ.",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    },
+    "exampleKm": "អាកាសធាតុថ្ងៃនេះមានពន្លឺថ្ងៃល្អ។"
+  },
+  {
+    "id": "cow",
+    "khmerWord": "គោ",
+    "syllables": [
+      "គោ"
+    ],
+    "englishMeaning": "Cow",
+    "acceptedAnswers": [
+      "Cow",
+      "Ox"
+    ],
+    "category": "animals",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/cow.png",
+    "hint": "A friendly farm animal.",
+    "hints": {
+      "easy": "A friendly farm animal.",
+      "medium": "Eats grass in Cambodian village fields.",
+      "strong": "Starts with consonant គ."
+    },
+    "educationalNote": "គោ (ko) is a common village farm noun spelled គ + ោ.",
+    "exampleKm": "កសិករចិញ្ចឹមគោនៅភូមិ។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "dog",
+    "khmerWord": "ឆ្កែ",
+    "syllables": [
+      "ឆ្កែ"
+    ],
+    "englishMeaning": "Dog",
+    "acceptedAnswers": [
+      "Dog",
+      "Puppy"
+    ],
+    "category": "animals",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/dog.png",
+    "hint": "A loyal pet animal.",
+    "hints": {
+      "easy": "A loyal pet animal.",
+      "medium": "Helps guard the village house.",
+      "strong": "Uses ឆ with subscript ្ក."
+    },
+    "educationalNote": "ឆ្កែ (chkae) combines ឆ + subscript ្ក + vowel ែ.",
+    "exampleKm": "ឆ្កែរត់លេងមុខផ្ទះ។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "cat",
+    "khmerWord": "ឆ្មា",
+    "syllables": [
+      "ឆ្មា"
+    ],
+    "englishMeaning": "Cat",
+    "acceptedAnswers": [
+      "Cat",
+      "Kitten"
+    ],
+    "category": "animals",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/cat.png",
+    "hint": "A small furry pet.",
+    "hints": {
+      "easy": "A small furry pet.",
+      "medium": "Likes to chase mice quietly.",
+      "strong": "Uses ឆ with subscript ្ម."
+    },
+    "educationalNote": "ឆ្មា (chma) uses ឆ + subscript ្ម + vowel ា.",
+    "exampleKm": "ឆ្មាដេកលើកន្ទេល។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "fish",
+    "khmerWord": "ត្រី",
+    "syllables": [
+      "ត្រី"
+    ],
+    "englishMeaning": "Fish",
+    "acceptedAnswers": [
+      "Fish"
+    ],
+    "category": "animals",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/fish.png",
+    "hint": "Swims in the Tonle Sap river.",
+    "hints": {
+      "easy": "Swims in the Tonle Sap river.",
+      "medium": "Caught by fishermen with nets.",
+      "strong": "Uses ត with subscript ្រ and ី."
+    },
+    "educationalNote": "ត្រី (trei) swims cleanly as a 1-syllable word with subscript ្រ.",
+    "exampleKm": "ត្រីហែលក្នុងទឹកទន្លេសាប។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "duck",
+    "khmerWord": "ទា",
+    "syllables": [
+      "ទា"
+    ],
+    "englishMeaning": "Duck",
+    "acceptedAnswers": [
+      "Duck"
+    ],
+    "category": "animals",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/duck.png",
+    "hint": "A bird that loves swimming on water.",
+    "hints": {
+      "easy": "A bird that loves swimming on water.",
+      "medium": "Says quack around village ponds.",
+      "strong": "One short syllable starting with ទ."
+    },
+    "educationalNote": "ទា (tie) is spelled ទ + ា.",
+    "exampleKm": "ទាហែលទឹកក្នុងស្រះ។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "chicken",
+    "khmerWord": "មាន់",
+    "syllables": [
+      "មាន់"
+    ],
+    "englishMeaning": "Chicken",
+    "acceptedAnswers": [
+      "Chicken",
+      "Hen",
+      "Rooster"
+    ],
+    "category": "animals",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/chicken.png",
+    "hint": "A farm bird raised for eggs.",
+    "hints": {
+      "easy": "A farm bird raised for eggs.",
+      "medium": "Crows early every morning in the village.",
+      "strong": "Starts with ម and ends with ន់."
+    },
+    "educationalNote": "មាន់ (moan) ends with consonant ន + bantoc mark ់.",
+    "exampleKm": "មាន់ដើររកចំណីក្នុងសួន។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "rice",
+    "khmerWord": "បាយ",
+    "syllables": [
+      "បាយ"
+    ],
+    "englishMeaning": "Cooked Rice",
+    "acceptedAnswers": [
+      "Cooked Rice",
+      "Rice"
+    ],
+    "category": "food",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/rice.png",
+    "hint": "Cambodia's staple daily meal.",
+    "hints": {
+      "easy": "Cambodia's staple daily meal.",
+      "medium": "Served warm in bowls with every dinner.",
+      "strong": "One syllable starting with ប."
+    },
+    "educationalNote": "បាយ (bay) is written ប + ា + យ.",
+    "exampleKm": "គ្រួសារញ៉ាំបាយជុំគ្នា។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "banana",
+    "khmerWord": "ចេក",
+    "syllables": [
+      "ចេក"
+    ],
+    "englishMeaning": "Banana",
+    "acceptedAnswers": [
+      "Banana"
+    ],
+    "category": "food",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/banana.png",
+    "hint": "A sweet yellow curved fruit.",
+    "hints": {
+      "easy": "A sweet yellow curved fruit.",
+      "medium": "Elephants love eating this tropical fruit.",
+      "strong": "One syllable starting with ច."
+    },
+    "educationalNote": "ចេក (chek) is spelled េ + ច + ក.",
+    "exampleKm": "ដំរីចូលចិត្តស៊ីផ្លែចេក។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "boat",
+    "khmerWord": "ទូក",
+    "syllables": [
+      "ទូក"
+    ],
+    "englishMeaning": "Boat",
+    "acceptedAnswers": [
+      "Boat",
+      "Canoe"
+    ],
+    "category": "daily_life",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/boat.png",
+    "hint": "Travels across Tonle Sap water.",
+    "hints": {
+      "easy": "Travels across Tonle Sap water.",
+      "medium": "Moved with wooden paddles.",
+      "strong": "One syllable starting with ទ and ូ."
+    },
+    "educationalNote": "ទូក (touk) is essential transport across Tonle Sap floating villages.",
+    "exampleKm": "អ្នកនេសាទចែវទូកលើទន្លេ។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "mountain",
+    "khmerWord": "ភ្នំ",
+    "syllables": [
+      "ភ្នំ"
+    ],
+    "englishMeaning": "Mountain",
+    "acceptedAnswers": [
+      "Mountain",
+      "Hill"
+    ],
+    "category": "nature",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/mountain.png",
+    "hint": "A very high rocky landform.",
+    "hints": {
+      "easy": "A very high rocky landform.",
+      "medium": "Phnom Penh gets part of its name from this word.",
+      "strong": "Uses ភ + subscript ្ន + ំ."
+    },
+    "educationalNote": "ភ្នំ (phnom) combines consonant ភ, subscript ្ន, and ំ.",
+    "exampleKm": "ភ្នំខ្ពស់មានព្រៃឈើបៃតង។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "grandfather",
+    "khmerWord": "លោកតា",
+    "syllables": [
+      "លោក",
+      "តា"
+    ],
+    "englishMeaning": "Grandfather",
+    "acceptedAnswers": [
+      "Grandfather",
+      "Grandpa"
+    ],
+    "category": "family",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/grandfather.png",
+    "hint": "An elder male family member.",
+    "hints": {
+      "easy": "An elder male family member.",
+      "medium": "Tells traditional Cambodian stories.",
+      "strong": "Two words/syllables: លោក and តា."
+    },
+    "educationalNote": "លោកតា (lok ta) politely pairs លោក with តា.",
+    "exampleKm": "លោកតានិទានរឿងព្រេងឱ្យចៅស្តាប់។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "grandmother",
+    "khmerWord": "លោកយាយ",
+    "syllables": [
+      "លោក",
+      "យាយ"
+    ],
+    "englishMeaning": "Grandmother",
+    "acceptedAnswers": [
+      "Grandmother",
+      "Grandma"
+    ],
+    "category": "family",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/grandmother.png",
+    "hint": "An elder female family member.",
+    "hints": {
+      "easy": "An elder female family member.",
+      "medium": "Prepares kind snacks at the pagoda or home.",
+      "strong": "Two words/syllables: លោក and យាយ."
+    },
+    "educationalNote": "លោកយាយ (lok yeay) politely pairs លោក with យាយ.",
+    "exampleKm": "លោកយាយដាំផ្កានៅមុខផ្ទះ។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "coconut",
+    "khmerWord": "ផ្លែដូង",
+    "syllables": [
+      "ផ្លែ",
+      "ដូង"
+    ],
+    "englishMeaning": "Coconut",
+    "acceptedAnswers": [
+      "Coconut"
+    ],
+    "category": "food",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/coconut.png",
+    "hint": "A hard brown tropical shell with sweet water inside.",
+    "hints": {
+      "easy": "A hard brown tropical shell with sweet water inside.",
+      "medium": "Grows high on palm trees.",
+      "strong": "Combines ផ្លែ and ដូង."
+    },
+    "educationalNote": "ផ្លែដូង (plae doung) joins ផ្លែ (fruit) + ដូង (coconut).",
+    "exampleKm": "ទឹកផ្លែដូងមានរសជាតិត្រជាក់ផ្អែម។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "father",
+    "khmerWord": "ឪពុក",
+    "syllables": [
+      "ឪ",
+      "ពុក"
+    ],
+    "englishMeaning": "Father",
+    "acceptedAnswers": [
+      "Father",
+      "Dad"
+    ],
+    "category": "family",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/father.png",
+    "hint": "A male parent in the family.",
+    "hints": {
+      "easy": "A male parent in the family.",
+      "medium": "Works hard to care for children.",
+      "strong": "Starts with independent vowel ឪ."
+    },
+    "educationalNote": "ឪពុក (ovpuk) uses independent vowel ឪ followed by ពុក.",
+    "exampleKm": "ឪពុកនាំកូនទៅសាលារៀន។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "corn",
+    "khmerWord": "ផ្លែពោត",
+    "syllables": [
+      "ផ្លែ",
+      "ពោត"
+    ],
+    "englishMeaning": "Corn",
+    "acceptedAnswers": [
+      "Corn",
+      "Maize"
+    ],
+    "category": "food",
+    "difficulty": "easy",
+    "imagePath": "assets/images/vocabulary/corn.png",
+    "hint": "A golden crop covered in small kernels.",
+    "hints": {
+      "easy": "A golden crop covered in small kernels.",
+      "medium": "Often grilled or boiled as a snack.",
+      "strong": "Combines ផ្លែ and ពោត."
+    },
+    "educationalNote": "ផ្លែពោត (plae pout) joins ផ្លែ (fruit) + ពោត (corn).",
+    "exampleKm": "យើងដាំផ្លែពោតនៅជិតភូមិ។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "crab",
+    "khmerWord": "ក្តាម",
+    "syllables": [
+      "ក្តាម"
+    ],
+    "englishMeaning": "Crab",
+    "acceptedAnswers": [
+      "Crab"
+    ],
+    "category": "animals",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/crab.png",
+    "hint": "Lives near water and mud.",
+    "hints": {
+      "easy": "Lives near water and mud.",
+      "medium": "Has two front pincers and walks sideways.",
+      "strong": "Uses ក with subscript ្ត."
+    },
+    "educationalNote": "ក្តាម (kdam) combines ក + subscript ្ត + ា + ម.",
+    "exampleKm": "ក្តាមវារលើឆ្នេរខ្សាច់។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "monkey",
+    "khmerWord": "ស្វា",
+    "syllables": [
+      "ស្វា"
+    ],
+    "englishMeaning": "Monkey",
+    "acceptedAnswers": [
+      "Monkey"
+    ],
+    "category": "animals",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/monkey.png",
+    "hint": "A playful tree-climbing animal.",
+    "hints": {
+      "easy": "A playful tree-climbing animal.",
+      "medium": "Seen around Angkor forest trees.",
+      "strong": "Uses ស with subscript ្វ."
+    },
+    "educationalNote": "ស្វា (sva) combines ស + subscript ្វ + ា.",
+    "exampleKm": "ស្វាឡើងដើមឈើក្នុងព្រៃអង្គរ។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "bird",
+    "khmerWord": "សត្វស្លាប",
+    "syllables": [
+      "សត្វ",
+      "ស្លាប"
+    ],
+    "englishMeaning": "Bird",
+    "acceptedAnswers": [
+      "Bird"
+    ],
+    "category": "animals",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/bird.png",
+    "hint": "Has feathers, wings, and flies in the sky.",
+    "hints": {
+      "easy": "Has feathers, wings, and flies in the sky.",
+      "medium": "Sings from temple treetops at dawn.",
+      "strong": "Pairs សត្វ (animal) + ស្លាប (wing)."
+    },
+    "educationalNote": "សត្វស្លាប (sat slab) joins សត្វ and ស្លាប.",
+    "exampleKm": "សត្វស្លាបច្រៀងលើមែកឈើ។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "frog",
+    "khmerWord": "កង្កែប",
+    "syllables": [
+      "កង្កែប"
+    ],
+    "englishMeaning": "Frog",
+    "acceptedAnswers": [
+      "Frog"
+    ],
+    "category": "animals",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/frog.png",
+    "hint": "A small green hopping animal.",
+    "hints": {
+      "easy": "A small green hopping animal.",
+      "medium": "Croaks happily after monsoon rain.",
+      "strong": "Contains consonant ង with subscript ្ក."
+    },
+    "educationalNote": "កង្កែប (kangkep) bridges ង + subscript ្ក.",
+    "exampleKm": "កង្កែបលោតក្បែរស្រះទឹក។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "cake",
+    "khmerWord": "នំខេក",
+    "syllables": [
+      "នំ",
+      "ខេក"
+    ],
+    "englishMeaning": "Cake",
+    "acceptedAnswers": [
+      "Cake",
+      "Cupcake"
+    ],
+    "category": "food",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/cake.png",
+    "hint": "A sweet baked treat.",
+    "hints": {
+      "easy": "A sweet baked treat.",
+      "medium": "Shared on birthdays and celebrations.",
+      "strong": "Pairs នំ and ខេក."
+    },
+    "educationalNote": "នំខេក (nom khek) combines នំ (pastry) + ខេក (cake).",
+    "exampleKm": "កូនក្មេងចូលចិត្តនំខេកផ្អែម។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "bread",
+    "khmerWord": "នំប៉័ង",
+    "syllables": [
+      "នំ",
+      "ប៉័ង"
+    ],
+    "englishMeaning": "Bread",
+    "acceptedAnswers": [
+      "Bread",
+      "Loaf"
+    ],
+    "category": "food",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/bread.png",
+    "hint": "A crispy loaf eaten for breakfast.",
+    "hints": {
+      "easy": "A crispy loaf eaten for breakfast.",
+      "medium": "Commonly sold from morning village baskets.",
+      "strong": "Pairs នំ and ប៉័ង."
+    },
+    "educationalNote": "នំប៉័ង (nom pang) combines នំ + ប៉័ង.",
+    "exampleKm": "នំប៉័ងក្តៅៗឆ្ងាញ់នៅពេលព្រឹក។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "egg",
+    "khmerWord": "ពងមាន់",
+    "syllables": [
+      "ពង",
+      "មាន់"
+    ],
+    "englishMeaning": "Chicken Egg",
+    "acceptedAnswers": [
+      "Chicken Egg",
+      "Egg"
+    ],
+    "category": "food",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/egg.png",
+    "hint": "Laid by a hen in a nest.",
+    "hints": {
+      "easy": "Laid by a hen in a nest.",
+      "medium": "Cooked for breakfast across Cambodia.",
+      "strong": "Pairs ពង (egg) + មាន់ (chicken)."
+    },
+    "educationalNote": "ពងមាន់ (pong moan) pairs ពង + មាន់.",
+    "exampleKm": "ម្តាយទិញពងមាន់ស្រស់ពីផ្សារ។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "vegetables",
+    "khmerWord": "បន្លែ",
+    "syllables": [
+      "បន្លែ"
+    ],
+    "englishMeaning": "Vegetables",
+    "acceptedAnswers": [
+      "Vegetables",
+      "Greens"
+    ],
+    "category": "food",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/vegetables.png",
+    "hint": "Fresh green plants used in cooking.",
+    "hints": {
+      "easy": "Fresh green plants used in cooking.",
+      "medium": "Grown in village gardens.",
+      "strong": "Uses ន with subscript ្ល and vowel ែ."
+    },
+    "educationalNote": "បន្លែ (banlae) keeps ន្លែ intact as one orthographic unit.",
+    "exampleKm": "បន្លែបៃតងជួយឱ្យរាងកាយរឹងមាំ។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "rain",
+    "khmerWord": "ទឹកភ្លៀង",
+    "syllables": [
+      "ទឹក",
+      "ភ្លៀង"
+    ],
+    "englishMeaning": "Rain",
+    "acceptedAnswers": [
+      "Rain",
+      "Rainwater"
+    ],
+    "category": "nature",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/rain.png",
+    "hint": "Drops falling from dark monsoon clouds.",
+    "hints": {
+      "easy": "Drops falling from dark monsoon clouds.",
+      "medium": "Helps rice fields grow green.",
+      "strong": "Pairs ទឹក + ភ្លៀង."
+    },
+    "educationalNote": "ទឹកភ្លៀង (teuk plieang) joins ទឹក (water) + ភ្លៀង (rain).",
+    "exampleKm": "ទឹកភ្លៀងធ្លាក់នៅរដូវវស្សា។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "moon",
+    "khmerWord": "ព្រះចន្ទ",
+    "syllables": [
+      "ព្រះ",
+      "ចន្ទ"
+    ],
+    "englishMeaning": "Moon",
+    "acceptedAnswers": [
+      "Moon"
+    ],
+    "category": "nature",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/moon.png",
+    "hint": "Shines softly in the night sky.",
+    "hints": {
+      "easy": "Shines softly in the night sky.",
+      "medium": "Honored during Cambodia's Water Festival.",
+      "strong": "Combines ព្រះ and ចន្ទ."
+    },
+    "educationalNote": "ព្រះចន្ទ (preah chan) is traditional polite Khmer for the moon.",
+    "exampleKm": "ព្រះចន្ទរះភ្លឺនៅពេលយប់។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "star",
+    "khmerWord": "ផ្កាយ",
+    "syllables": [
+      "ផ្កាយ"
+    ],
+    "englishMeaning": "Star",
+    "acceptedAnswers": [
+      "Star"
+    ],
+    "category": "nature",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/star.png",
+    "hint": "Twinkles high in the night sky.",
+    "hints": {
+      "easy": "Twinkles high in the night sky.",
+      "medium": "You earn golden ones after solving puzzles.",
+      "strong": "Written ផ + ្ក + ា + យ."
+    },
+    "educationalNote": "ផ្កាយ (pkay) uses consonant ផ with subscript ្ក.",
+    "exampleKm": "ផ្កាយរះពេញមេឃពេលយប់។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "chair",
+    "khmerWord": "កៅអី",
+    "syllables": [
+      "កៅ",
+      "អី"
+    ],
+    "englishMeaning": "Chair",
+    "acceptedAnswers": [
+      "Chair",
+      "Seat"
+    ],
+    "category": "daily_life",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/chair.png",
+    "hint": "A piece of furniture you sit on.",
+    "hints": {
+      "easy": "A piece of furniture you sit on.",
+      "medium": "Found at desks in classrooms and homes.",
+      "strong": "Two segments: កៅ and អី."
+    },
+    "educationalNote": "កៅអី (kao ei) separates cleanly into កៅ and អី.",
+    "exampleKm": "សិស្សអង្គុយលើកៅអីក្នុងថ្នាក់។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "bicycle",
+    "khmerWord": "កង់",
+    "syllables": [
+      "កង់"
+    ],
+    "englishMeaning": "Bicycle",
+    "acceptedAnswers": [
+      "Bicycle",
+      "Bike"
+    ],
+    "category": "daily_life",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/bicycle.png",
+    "hint": "Has two wheels and pedals.",
+    "hints": {
+      "easy": "Has two wheels and pedals.",
+      "medium": "Students ride it to school along village roads.",
+      "strong": "Short 1-syllable word ending with ង់."
+    },
+    "educationalNote": "កង់ (kong) means both wheel and bicycle in Khmer.",
+    "exampleKm": "សិស្សជិះកង់ទៅសាលារៀន។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "car",
+    "khmerWord": "រថយន្ត",
+    "syllables": [
+      "រថ",
+      "យន្ត"
+    ],
+    "englishMeaning": "Car",
+    "acceptedAnswers": [
+      "Car",
+      "Automobile"
+    ],
+    "category": "daily_life",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/car.png",
+    "hint": "Has four wheels and an engine.",
+    "hints": {
+      "easy": "Has four wheels and an engine.",
+      "medium": "Drives passengers between towns.",
+      "strong": "Combines រថ and យន្ត."
+    },
+    "educationalNote": "រថយន្ត (rot yon) pairs រថ + យន្ត.",
+    "exampleKm": "រថយន្តបើកបរតាមផ្លូវជាតិ។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "pencil",
+    "khmerWord": "ខ្មៅដៃ",
+    "syllables": [
+      "ខ្មៅ",
+      "ដៃ"
+    ],
+    "englishMeaning": "Pencil",
+    "acceptedAnswers": [
+      "Pencil"
+    ],
+    "category": "education",
+    "difficulty": "medium",
+    "imagePath": "assets/images/vocabulary/pencil.png",
+    "hint": "Used for writing and drawing.",
+    "hints": {
+      "easy": "Used for writing and drawing.",
+      "medium": "You can erase mistakes easily.",
+      "strong": "Combines ខ្មៅ (black) + ដៃ (hand)."
+    },
+    "educationalNote": "ខ្មៅដៃ (kmao dai) literally joins ខ្មៅ + ដៃ.",
+    "exampleKm": "កូនក្មេងសរសេរអក្សរដោយប្រើខ្មៅដៃ។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "milk",
+    "khmerWord": "ទឹកដោះគោ",
+    "syllables": [
+      "ទឹក",
+      "ដោះ",
+      "គោ"
+    ],
+    "englishMeaning": "Milk",
+    "acceptedAnswers": [
+      "Milk",
+      "Cow Milk"
+    ],
+    "category": "food",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/milk.png",
+    "hint": "A healthy white drink for kids.",
+    "hints": {
+      "easy": "A healthy white drink for kids.",
+      "medium": "Comes from dairy cows.",
+      "strong": "Three syllables: ទឹក + ដោះ + គោ."
+    },
+    "educationalNote": "ទឹកដោះគោ (teuk dos ko) links 3 everyday morphemes: ទឹក, ដោះ, គោ.",
+    "exampleKm": "ក្មេងៗផឹកទឹកដោះគោជារៀងរាល់ព្រឹក។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "lemon",
+    "khmerWord": "ក្រូចឆ្មារ",
+    "syllables": [
+      "ក្រូច",
+      "ឆ្មារ"
+    ],
+    "englishMeaning": "Lemon",
+    "acceptedAnswers": [
+      "Lemon",
+      "Lime"
+    ],
+    "category": "food",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/lemon.png",
+    "hint": "A small sour citrus fruit.",
+    "hints": {
+      "easy": "A small sour citrus fruit.",
+      "medium": "Used in Cambodian soup and fresh drinks.",
+      "strong": "Pairs ក្រូច and ឆ្មារ."
+    },
+    "educationalNote": "ក្រូចឆ្មារ (krouch chma) combines ក្រូច (citrus) + ឆ្មារ.",
+    "exampleKm": "ទឹកក្រូចឆ្មារមានរសជាតិជូរស្រស់។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "teacher",
+    "khmerWord": "គ្រូបង្រៀន",
+    "syllables": [
+      "គ្រូ",
+      "បង្រៀន"
+    ],
+    "englishMeaning": "Teacher",
+    "acceptedAnswers": [
+      "Teacher"
+    ],
+    "category": "education",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/teacher.png",
+    "hint": "Teaches students in class.",
+    "hints": {
+      "easy": "Teaches students in class.",
+      "medium": "Guides children to read and count.",
+      "strong": "Combines គ្រូ (teacher) + បង្រៀន (teach)."
+    },
+    "educationalNote": "គ្រូបង្រៀន (kru bangrien) joins គ្រូ and បង្រៀន.",
+    "exampleKm": "គ្រូបង្រៀនជួយបង្ហាត់អក្សរខ្មែរដល់សិស្ស។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "student",
+    "khmerWord": "សិស្សសាលា",
+    "syllables": [
+      "សិស្ស",
+      "សា",
+      "លា"
+    ],
+    "englishMeaning": "Student",
+    "acceptedAnswers": [
+      "Student",
+      "Pupil"
+    ],
+    "category": "education",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/student.png",
+    "hint": "A young learner who goes to school.",
+    "hints": {
+      "easy": "A young learner who goes to school.",
+      "medium": "Studies books and solves puzzles.",
+      "strong": "Three parts starting with សិស្ស."
+    },
+    "educationalNote": "សិស្សសាលា (ses sala) combines សិស្ស + សា + លា.",
+    "exampleKm": "សិស្សសាលាខិតខំរៀនសូត្រជារៀងរាល់ថ្ងៃ។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "pen",
+    "khmerWord": "ដងប៉ាកកា",
+    "syllables": [
+      "ដង",
+      "ប៉ាក",
+      "កា"
+    ],
+    "englishMeaning": "Pen",
+    "acceptedAnswers": [
+      "Pen",
+      "Ink Pen"
+    ],
+    "category": "education",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/pen.png",
+    "hint": "Writes with permanent blue or black ink.",
+    "hints": {
+      "easy": "Writes with permanent blue or black ink.",
+      "medium": "Teachers use it to mark notebooks.",
+      "strong": "Starts with ដង + ប៉ាក + កា."
+    },
+    "educationalNote": "ដងប៉ាកកា (dang pakka) breaks cleanly into ដង, ប៉ាក, កា.",
+    "exampleKm": "គ្រូប្រើដងប៉ាកកាសរសេរលើសៀវភៅ។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "bus",
+    "khmerWord": "រថយន្តក្រុង",
+    "syllables": [
+      "រថ",
+      "យន្ត",
+      "ក្រុង"
+    ],
+    "englishMeaning": "Bus",
+    "acceptedAnswers": [
+      "Bus",
+      "City Bus"
+    ],
+    "category": "daily_life",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/bus.png",
+    "hint": "A large vehicle carrying many passengers.",
+    "hints": {
+      "easy": "A large vehicle carrying many passengers.",
+      "medium": "Stops at city stations.",
+      "strong": "Three parts: រថ + យន្ត + ក្រុង."
+    },
+    "educationalNote": "រថយន្តក្រុង (rot yon krong) extends រថយន្ត with ក្រុង (city).",
+    "exampleKm": "អ្នកដំណើរឡើងជិះរថយន្តក្រុងទៅផ្សារ។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "bridge",
+    "khmerWord": "ស្ពានឈើ",
+    "syllables": [
+      "ស្ពាន",
+      "ឈើ"
+    ],
+    "englishMeaning": "Wooden Bridge",
+    "acceptedAnswers": [
+      "Wooden Bridge",
+      "Bridge"
+    ],
+    "category": "daily_life",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/bridge.png",
+    "hint": "Crosses over a river or pond.",
+    "hints": {
+      "easy": "Crosses over a river or pond.",
+      "medium": "Connects houses in floating and rural villages.",
+      "strong": "Combines ស្ពាន (bridge) + ឈើ (wood)."
+    },
+    "educationalNote": "ស្ពានឈើ (spean chheu) pairs ស្ពាន + ឈើ.",
+    "exampleKm": "អ្នកភូមិដើរឆ្លងស្ពានឈើលើទឹក។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "clock",
+    "khmerWord": "នាឡិកា",
+    "syllables": [
+      "នា",
+      "ឡិ",
+      "កា"
+    ],
+    "englishMeaning": "Clock",
+    "acceptedAnswers": [
+      "Clock",
+      "Watch"
+    ],
+    "category": "daily_life",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/clock.png",
+    "hint": "Tells the hours and minutes of the day.",
+    "hints": {
+      "easy": "Tells the hours and minutes of the day.",
+      "medium": "Helps students wake up on time for school.",
+      "strong": "Three syllables starting with នា."
+    },
+    "educationalNote": "នាឡិកា (nealea-ka) divides into នា, ឡិ, កា.",
+    "exampleKm": "នាឡិការោទ៍ដាស់កូនក្មេងនៅម៉ោងប្រាំមួយព្រឹក។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "drum",
+    "khmerWord": "ស្គរធំ",
+    "syllables": [
+      "ស្គរ",
+      "ធំ"
+    ],
+    "englishMeaning": "Drum",
+    "acceptedAnswers": [
+      "Drum",
+      "Big Drum"
+    ],
+    "category": "daily_life",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/drum.png",
+    "hint": "A traditional musical instrument.",
+    "hints": {
+      "easy": "A traditional musical instrument.",
+      "medium": "Played during Khmer festivals and temple ceremonies.",
+      "strong": "Pairs ស្គរ (drum) + ធំ (big)."
+    },
+    "educationalNote": "ស្គរធំ (sko thom) joins ស្គរ + ធំ.",
+    "exampleKm": "សំឡេងស្គរធំឮរងំក្នុងពិធីបុណ្យភូមិ។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "bell",
+    "khmerWord": "កណ្តឹង",
+    "syllables": [
+      "កណ្តឹង"
+    ],
+    "englishMeaning": "Bell",
+    "acceptedAnswers": [
+      "Bell"
+    ],
+    "category": "education",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/bell.png",
+    "hint": "Rings loudly to signal recess at school.",
+    "hints": {
+      "easy": "Rings loudly to signal recess at school.",
+      "medium": "Also hung gently at pagoda eaves.",
+      "strong": "Contains subscript ្ត under ណ."
+    },
+    "educationalNote": "កណ្តឹង (kandang) uses ណ + subscript ្ត.",
+    "exampleKm": "កណ្តឹងសាលាបន្លឺឡើងនៅម៉ោងចូលរៀន។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "crown",
+    "khmerWord": "មកុដ",
+    "syllables": [
+      "ម",
+      "កុដ"
+    ],
+    "englishMeaning": "Crown",
+    "acceptedAnswers": [
+      "Crown"
+    ],
+    "category": "daily_life",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/crown.png",
+    "hint": "A royal golden headpiece.",
+    "hints": {
+      "easy": "A royal golden headpiece.",
+      "medium": "Seen on ancient Khmer stone carvings and Apsara dancers.",
+      "strong": "Two syllables: ម and កុដ."
+    },
+    "educationalNote": "មកុដ (mokot) divides cleanly into ម + កុដ.",
+    "exampleKm": "ចម្លាក់អប្សរានៅអង្គរវត្តពាក់មកុដមាស។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "lamp",
+    "khmerWord": "ចង្កៀងប្រេង",
+    "syllables": [
+      "ចង្កៀង",
+      "ប្រេង"
+    ],
+    "englishMeaning": "Oil Lamp",
+    "acceptedAnswers": [
+      "Oil Lamp",
+      "Lamp"
+    ],
+    "category": "daily_life",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/lamp.png",
+    "hint": "Gives warm golden light at night.",
+    "hints": {
+      "easy": "Gives warm golden light at night.",
+      "medium": "Helps explorers read ancient stone clues.",
+      "strong": "Pairs ចង្កៀង (lamp) + ប្រេង (oil)."
+    },
+    "educationalNote": "ចង្កៀងប្រេង (changkien preng) pairs ចង្កៀង + ប្រេង.",
+    "exampleKm": "ចង្កៀងប្រេងបំភ្លឺផ្លូវនៅពេលយប់។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "needs_review",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "key",
+    "khmerWord": "កូនសោ",
+    "syllables": [
+      "កូន",
+      "សោ"
+    ],
+    "englishMeaning": "Key",
+    "acceptedAnswers": [
+      "Key"
+    ],
+    "category": "daily_life",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/key.png",
+    "hint": "Unlocks wooden doors and temple chests.",
+    "hints": {
+      "easy": "Unlocks wooden doors and temple chests.",
+      "medium": "Keep it safe to open locked stages.",
+      "strong": "Combines កូន + សោ."
+    },
+    "educationalNote": "កូនសោ (koun sao) pairs កូន + សោ.",
+    "exampleKm": "លោកពូប្រើកូនសោបើកទ្វារផ្ទះ។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "river",
+    "khmerWord": "ទឹកទន្លេ",
+    "syllables": [
+      "ទឹក",
+      "ទន្លេ"
+    ],
+    "englishMeaning": "River",
+    "acceptedAnswers": [
+      "River"
+    ],
+    "category": "nature",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/river.png",
+    "hint": "A wide flowing waterway like the Mekong or Tonle Sap.",
+    "hints": {
+      "easy": "A wide flowing waterway like the Mekong or Tonle Sap.",
+      "medium": "Boats travel across its calm currents.",
+      "strong": "Pairs ទឹក (water) + ទន្លេ (river)."
+    },
+    "educationalNote": "ទឹកទន្លេ (teuk tonle) pairs ទឹក + ទន្លេ.",
+    "exampleKm": "ទឹកទន្លេហូរកាត់ភូមិកសិកម្ម។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  },
+  {
+    "id": "honeybee",
+    "khmerWord": "សត្វឃ្មុំ",
+    "syllables": [
+      "សត្វ",
+      "ឃ្មុំ"
+    ],
+    "englishMeaning": "Honeybee",
+    "acceptedAnswers": [
+      "Honeybee",
+      "Bee"
+    ],
+    "category": "animals",
+    "difficulty": "hard",
+    "imagePath": "assets/images/vocabulary/honeybee.png",
+    "hint": "A busy flying insect that makes sweet honey.",
+    "hints": {
+      "easy": "A busy flying insect that makes sweet honey.",
+      "medium": "Visits lotus and garden flowers.",
+      "strong": "Pairs សត្វ + ឃ្មុំ."
+    },
+    "educationalNote": "សត្វឃ្មុំ (sat khmom) pairs សត្វ + ឃ្មុំ.",
+    "exampleKm": "សត្វឃ្មុំហើរក្រេបលំអងផ្កា។",
+    "verification": {
+      "spelling": "verified",
+      "meaning": "verified",
+      "syllables": "verified",
+      "example": "needs_review"
+    }
+  }
+]

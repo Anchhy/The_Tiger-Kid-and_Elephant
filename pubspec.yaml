@@ -59,6 +59,33 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
+  assets:
+    - assets/data/
+    - assets/images/backgrounds/
+    - assets/images/characters/
+    - assets/images/buttons/
+    - assets/images/icons/
+    - assets/images/maps/
+    - assets/images/mockups/
+    - assets/images/rewards/
+    - assets/images/levels/
+    - assets/images/vocabulary/
+    - assets/images/vocabulary/animals/
+    - assets/images/vocabulary/fruits/
+    - assets/images/vocabulary/food/
+    - assets/images/vocabulary/nature/
+    - assets/images/vocabulary/transportation/
+    - assets/images/vocabulary/occupations/
+    - assets/images/vocabulary/household/
+    - assets/images/vocabulary/cambodian_culture/
+    - assets/ui/kenney_ui/
+    - assets/icons/game_icons/
+    - assets/environments/foliage/
+    - assets/environments/docks/
+    - assets/environments/angkor_reference/
+    - assets/audio/ui/
+    - assets/audio/rpg/
+
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
