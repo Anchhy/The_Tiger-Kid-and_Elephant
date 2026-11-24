@@ -1,30 +1,39 @@
-// This is a basic Flutter widget test.
-//
-// To perform an interaction with a widget in your test, use the WidgetTester
-// utility in the flutter_test package. For example, you can send tap and scroll
-// gestures. You can also use WidgetTester to find child widgets in the widget
-// tree, read text, and verify that the values of widget properties are correct.
-
+import 'package:flame/game.dart';
+import 'package:flutter/widgets.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:material_ui/material_ui.dart';
 
 import 'package:tiger_kid_elephant/main.dart';
 
 void main() {
-  testWidgets('Counter increments smoke test', (WidgetTester tester) async {
-    // Build our app and trigger a frame.
-    await tester.pumpWidget(const MyApp());
+  testWidgets('home screen displays the Week 1 controls', (
+    WidgetTester tester,
+  ) async {
+    await tester.pumpWidget(const TigerKidElephantApp());
 
-    // Verify that our counter starts at 0.
-    expect(find.text('0'), findsOneWidget);
-    expect(find.text('1'), findsNothing);
+    expect(find.text('The Tiger, Kid, and Elephant'), findsOneWidget);
+    expect(find.text('Play Game'), findsOneWidget);
+  });
 
-    // Tap the '+' icon and trigger a frame.
-    await tester.tap(find.byIcon(Icons.add));
+  testWidgets('Play Game opens Flame and return control goes home', (
+    WidgetTester tester,
+  ) async {
+    await tester.pumpWidget(const TigerKidElephantApp());
+
+    await tester.tap(find.text('Play Game'));
     await tester.pump();
+    await tester.pump(const Duration(milliseconds: 500));
 
-    // Verify that our counter has incremented.
-    expect(find.text('0'), findsNothing);
-    expect(find.text('1'), findsOneWidget);
+    expect(
+      find.byWidgetPredicate((Widget widget) => widget is GameWidget),
+      findsOneWidget,
+    );
+    expect(find.byKey(const Key('return-to-home')), findsOneWidget);
+
+    await tester.tap(find.byKey(const Key('return-to-home')));
+    await tester.pump();
+    await tester.pump(const Duration(milliseconds: 500));
+
+    expect(find.text('The Tiger, Kid, and Elephant'), findsOneWidget);
+    expect(find.text('Play Game'), findsOneWidget);
   });
 }
