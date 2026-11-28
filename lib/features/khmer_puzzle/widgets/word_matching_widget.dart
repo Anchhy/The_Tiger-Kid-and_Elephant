@@ -23,6 +23,7 @@ class WordMatchingWidget extends StatefulWidget {
     this.onRetry,
     this.onClose,
     this.onCompleted,
+    this.onAnswerFeedback,
     this.onPairMatched,
     this.onHintRequested,
     this.validator = const PuzzleValidationService(),
@@ -35,6 +36,7 @@ class WordMatchingWidget extends StatefulWidget {
   final VoidCallback? onRetry;
   final VoidCallback? onClose;
   final ValueChanged<PuzzleResult>? onCompleted;
+  final ValueChanged<PuzzleResult>? onAnswerFeedback;
   final ValueChanged<PuzzleResult>? onPairMatched;
   final ValueChanged<HintResponse>? onHintRequested;
   final PuzzleValidationService validator;
@@ -153,6 +155,7 @@ class _WordMatchingWidgetState extends State<WordMatchingWidget> {
       });
 
       widget.onPairMatched?.call(result);
+      widget.onAnswerFeedback?.call(result);
       if (allSolved) {
         widget.onCompleted?.call(result);
       }
@@ -169,6 +172,7 @@ class _WordMatchingWidgetState extends State<WordMatchingWidget> {
         _isCompleted = outOfAttempts;
       });
 
+      widget.onAnswerFeedback?.call(result);
       if (outOfAttempts) {
         widget.onCompleted?.call(result);
       }

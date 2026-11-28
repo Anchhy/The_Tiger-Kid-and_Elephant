@@ -23,6 +23,7 @@ class SyllableOrderingWidget extends StatefulWidget {
     this.onRetry,
     this.onClose,
     this.onCompleted,
+    this.onAnswerFeedback,
     this.onHintRequested,
     this.validator = const PuzzleValidationService(),
     this.hintService = const PuzzleHintService(),
@@ -34,6 +35,7 @@ class SyllableOrderingWidget extends StatefulWidget {
   final VoidCallback? onRetry;
   final VoidCallback? onClose;
   final ValueChanged<PuzzleResult>? onCompleted;
+  final ValueChanged<PuzzleResult>? onAnswerFeedback;
   final ValueChanged<HintResponse>? onHintRequested;
   final PuzzleValidationService validator;
   final PuzzleHintService hintService;
@@ -162,6 +164,7 @@ class _SyllableOrderingWidgetState extends State<SyllableOrderingWidget> {
       }
     });
 
+    widget.onAnswerFeedback?.call(result);
     if (result.isSolved || outOfAttempts) {
       widget.onCompleted?.call(result);
     }
