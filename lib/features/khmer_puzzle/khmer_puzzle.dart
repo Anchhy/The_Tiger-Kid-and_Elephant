@@ -20,6 +20,7 @@ export 'models/vocabulary_item.dart';
 export 'repositories/khmer_puzzle_repository.dart';
 export 'screens/khmer_puzzle_screen.dart';
 export 'screens/picture_matching_screen.dart';
+export 'screens/puzzle_integration_example_screen.dart';
 export 'screens/puzzle_preview_screen.dart';
 export 'screens/syllable_ordering_screen.dart';
 export 'screens/word_matching_screen.dart';

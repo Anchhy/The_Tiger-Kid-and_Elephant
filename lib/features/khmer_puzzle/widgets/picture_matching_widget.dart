@@ -23,6 +23,7 @@ class PictureMatchingWidget extends StatefulWidget {
     this.onRetry,
     this.onClose,
     this.onCompleted,
+    this.onAnswerFeedback,
     this.onOptionSelected,
     this.onHintRequested,
     this.validator = const PuzzleValidationService(),
@@ -36,6 +37,7 @@ class PictureMatchingWidget extends StatefulWidget {
   final VoidCallback? onRetry;
   final VoidCallback? onClose;
   final ValueChanged<PuzzleResult>? onCompleted;
+  final ValueChanged<PuzzleResult>? onAnswerFeedback;
   final ValueChanged<PuzzleOption>? onOptionSelected;
   final ValueChanged<HintResponse>? onHintRequested;
   final PuzzleValidationService validator;
@@ -147,6 +149,7 @@ class _PictureMatchingWidgetState extends State<PictureMatchingWidget> {
       }
     });
 
+    widget.onAnswerFeedback?.call(result);
     if (result.isSolved || outOfAttempts) {
       widget.onCompleted?.call(result);
     }

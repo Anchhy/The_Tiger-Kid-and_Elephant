@@ -1,6 +1,6 @@
-# M3 Team Integration Guide (Phase 8)
+# M3 Team Integration Guide (Week 2 Updated)
 
-> **Module Ownership**: M3 owns `lib/features/khmer_puzzle/`, `assets/data/khmer_vocabulary.json`, `knowledge/khmer/`, and `test/features/khmer_puzzle/`. M1, M2, M4, and M5 modules do not yet exist in this repository and remain owned by their respective teammates.
+> **Module Ownership**: M3 owns `lib/features/khmer_puzzle/`, `assets/data/khmer_vocabulary.json`, `assets/images/` + `assets/{ui,icons,environments,audio}/`, `knowledge/khmer/`, and `test/features/khmer_puzzle/`. M5's landscape starter shell (`lib/main.dart`, `lib/screens/home_screen.dart`, `lib/screens/game_screen.dart`) is now live on `main`; M1/M2/M4 modules continue developing in their own scopes.
 
 ---
 
@@ -27,7 +27,7 @@ M3 receives level puzzle requirements via `PuzzleRequest` (or raw JSON parsed by
   "difficulty": "easy",
   "category": "animals",
   "configuration": {
-    "targetVocabularyId": "animals_elephant_002",
+    "targetVocabularyId": "elephant",
     "requireVerifiedSyllables": true,
     "requireImage": false
   }
@@ -75,16 +75,45 @@ PictureMatchingWidget(
 
 ## 4. For M5 — Integration & Mobile Developer (and M2 Gameplay)
 
-### Option A: Screen-Level Navigation (`KhmerPuzzleScreen`)
+### Option A: Flame `GameScreen` Modal Overlay (`KhmerPuzzleScreen.showAsDialog`)
+
+Drop directly into `lib/screens/game_screen.dart` when Kid reaches an M2 temple/village checkpoint:
 
 ```dart
-KhmerPuzzleScreen(
-  puzzleType: PuzzleType.syllableOrdering,
-  difficulty: PuzzleDifficulty.easy,
-  category: 'animals',
+game.pauseEngine();
+final event = await KhmerPuzzleScreen.showAsDialog(
+  context,
+  request: PuzzleRequest.fromJson(checkpointJson),
+  onAnswerFeedback: (result) {
+    // Live feedback sound or Tiger proximity hint cue
+  },
+  onCompletionEvent: (event) {
+    // Immediate completion callback if desired before modal closes
+  },
+);
+game.resumeEngine();
+
+if (event != null && event.isCorrect) {
+  // M2: unlock maze path & advance Kid
+  // M5: save event.toJson() score & completion state
+}
+```
+
+You can also run `PuzzleIntegrationExampleScreen` to test M1 checkpoint JSON triggers, live `onAnswerFeedback`/`onHintRequested` logs, and `PuzzleCompletionEvent` emission end-to-end.
+
+### Option B: Screen-Level Navigation (`KhmerPuzzleScreen.fromRequest`)
+
+```dart
+KhmerPuzzleScreen.fromRequest(
+  request: PuzzleRequest(
+    levelId: 'level_01_gate_a',
+    puzzleType: PuzzleType.syllableOrdering,
+    difficulty: PuzzleDifficulty.easy,
+    category: 'animals',
+  ),
   repository: sharedRepository,
-  onCompleted: (PuzzleResult result) {
-    if (result.isSolved) {
+  onCompletionEvent: (PuzzleCompletionEvent event) {
+    if (event.isCorrect) {
       // M2: unlock maze route / resume kid movement
       // M5: save completion & unlock next level
     }
@@ -92,7 +121,7 @@ KhmerPuzzleScreen(
 )
 ```
 
-### Option B: Adapter API (`PuzzleIntegrationAdapter`)
+### Option C: Headless Adapter API (`PuzzleIntegrationAdapter`)
 
 ```dart
 final adapter = PuzzleIntegrationAdapter(
